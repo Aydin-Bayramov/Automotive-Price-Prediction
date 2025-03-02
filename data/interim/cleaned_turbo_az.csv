@@ -1,0 +1,1392 @@
+Price,Make,Model,Year,Color,Kilometer,Transmission,New,Engine_Size,Horsepower,Fuel_Type
+72100.0,Kia,K5,2024,Boz,0,Avtomat,Bəli,2.5,194,Benzin
+41000.0,Kia,K5,2020,Qırmızı,154000,Avtomat,Xeyr,1.6,180,Benzin
+24500.0,Kia,Forte,2019,Göy,126330,Variator,Xeyr,2.0,147,Benzin
+321100.0,Mercedes,G 63 AMG,2019,Qara,48000,Avtomat,Xeyr,4.0,585,Benzin
+79900.0,BMW,530e,2022,Qara,25000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+41310.0,Hyundai,Sonata,2020,Yaş Asfalt,58000,Avtomat,Xeyr,1.6,188,Benzin
+38250.0,Kia,K5,2020,Yaş Asfalt,30500,Robot,Xeyr,1.6,180,Benzin
+26800.0,Hyundai,Elantra,2019,Qara,66230,Avtomat,Xeyr,2.0,150,Benzin
+26400.0,Hyundai,Elantra,2019,Tünd qırmızı,95115,Avtomat,Xeyr,2.0,150,Benzin
+253300.0,BMW,X7,2023,Qara,0,Avtomat,Bəli,3.0,381,Benzin
+127500.0,BMW,530e,2024,Göy,9700,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+458830.0,Mercedes,G 63 AMG,2023,Qara,4000,Avtomat,Xeyr,4.0,585,Benzin
+32300.0,Kia,K5,2020,Qara,73000,Avtomat,Xeyr,1.6,180,Benzin
+58310.0,Kia,Sorento,2022,Ağ,30000,Avtomat,Xeyr,1.6,230,Hibrid
+59900.0,Hyundai,Sonata,2024,Qara,0,Avtomat,Bəli,2.5,194,Benzin
+44000.0,Kia,Sportage,2020,Ağ,90000,Avtomat,Xeyr,2.0,185,Dizel
+43500.0,Hyundai,Sonata,2021,Göy,111000,Avtomat,Xeyr,2.0,165,Benzin
+110120.9,BMW,X5,2021,Qara,70100,Avtomat,Xeyr,2.0,218,Dizel
+222700.0,Mercedes,GLS 450 4MATIC,2022,Boz,0,Avtomat,Bəli,3.0,367,Benzin
+28500.0,Hyundai,Accent,2021,Qara,65000,Avtomat,Xeyr,1.6,140,Benzin
+328100.0,Mercedes,G 63 AMG,2019,Qara,24500,Avtomat,Xeyr,4.0,585,Benzin
+52700.0,Hyundai,Tucson,2024,Boz,0,Avtomat,Bəli,2.0,154,Benzin
+91460.0,BMW,530e,2023,Ağ,35000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+88230.0,Mercedes,E 300 e,2022,Yaş Asfalt,14000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+39800.0,Hyundai,Sonata,2020,Ağ,55000,Avtomat,Xeyr,2.0,197,Hibrid
+42900.0,Hyundai,Santa Fe,2019,Ağ,176000,Avtomat,Xeyr,2.0,184,Dizel
+52190.0,Hyundai,Sonata,2022,Yaş Asfalt,27000,Avtomat,Xeyr,2.0,165,Benzin
+70550.0,Hyundai,Grandeur,2023,Qara,22600,Avtomat,Xeyr,1.6,180,Hibrid
+37910.0,Hyundai,Elantra,2024,Qara,0,Avtomat,Bəli,1.6,127,Benzin
+161500.0,BMW,X7,2021,Qara,49421,Avtomat,Xeyr,3.0,390,Benzin
+58310.0,BMW,530,2019,Yaş Asfalt,92280,Avtomat,Xeyr,2.0,245,Benzin
+24800.0,Hyundai,Elantra,2019,Gümüşü,108000,Avtomat,Xeyr,2.0,150,Benzin
+222700.0,BMW,X7,2024,Qara,0,Avtomat,Bəli,3.0,381,Benzin
+26000.0,Kia,Forte,2020,Qırmızı,55000,Variator,Xeyr,2.0,147,Benzin
+47900.0,Kia,Sorento,2019,Qara,143000,Avtomat,Xeyr,2.0,184,Dizel
+81430.0,Mercedes,E 300 e,2021,Qara,14950,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+77350.0,Mercedes,E 300 e,2020,Boz,43000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+441998.3,Mercedes,G 63 AMG,2022,Qara,14000,Avtomat,Xeyr,4.0,585,Benzin
+26300.0,Kia,Cerato,2019,Yaş Asfalt,52000,Avtomat,Xeyr,2.0,150,Benzin
+27800.0,Hyundai,Elantra,2021,Yaş Asfalt,96000,Avtomat,Xeyr,2.0,150,Benzin
+85850.0,BMW,530e,2021,Göy,39500,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+101150.0,BMW,530e,2022,Ağ,15000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+385390.0,Mercedes,G 63 AMG,2019,Qara,6181,Avtomat,Xeyr,4.0,585,Benzin
+125460.0,Mercedes,GLE 350 4MATIC,2021,Boz,35924,Avtomat,Xeyr,2.0,313,Plug-in Hibrid
+43600.0,Kia,Sorento,2019,Yaş Asfalt,149154,Avtomat,Xeyr,2.0,200,Dizel
+100130.0,BMW,X5,2019,Boz,64000,Avtomat,Xeyr,3.0,340,Benzin
+220490.0,BMW,X7,2023,Qara,3000,Avtomat,Xeyr,3.0,381,Benzin
+28000.0,Hyundai,Elantra,2019,Ağ,136794,Avtomat,Xeyr,2.0,150,Benzin
+26500.0,Kia,Forte,2020,Qırmızı,104446,Variator,Xeyr,2.0,147,Benzin
+120700.0,BMW,X5,2019,Yaş Asfalt,99500,Avtomat,Xeyr,3.0,340,Benzin
+32800.0,Hyundai,Tucson,2019,Qara,50085,Avtomat,Xeyr,2.0,150,Benzin
+68500.0,Kia,Sorento,2023,Ağ,15000,Avtomat,Xeyr,1.6,230,Hibrid
+72250.0,Mercedes,E 220 d,2020,Qara,65000,Avtomat,Xeyr,2.2,194,Dizel
+58500.0,Kia,Carnival,2020,Ağ,125000,Avtomat,Xeyr,2.2,202,Dizel
+23900.0,Hyundai,Elantra,2019,Yaş Asfalt,33807,Avtomat,Xeyr,2.0,150,Benzin
+40900.0,Kia,K5,2021,Boz,87000,Avtomat,Xeyr,1.6,183,Benzin
+135830.0,Mercedes,GLE 350 4MATIC,2023,Qara,9600,Avtomat,Xeyr,2.0,333,Plug-in Hibrid
+31000.0,Hyundai,Elantra,2021,Boz,110000,Avtomat,Xeyr,1.6,175,Hibrid
+78200.0,BMW,530,2021,Qara,75000,Avtomat,Xeyr,2.0,249,Benzin
+35500.0,Hyundai,Elantra,2022,Boz,53000,Variator,Xeyr,1.6,139,Hibrid
+25200.0,Hyundai,Accent,2021,Ağ,72996,Avtomat,Xeyr,1.6,140,Benzin
+36900.0,Kia,K5,2020,Qara,83000,Avtomat,Xeyr,2.0,168,Benzin
+38250.0,Hyundai,Sonata,2019,Ağ,100000,Avtomat,Xeyr,2.0,180,Benzin
+328100.0,Mercedes,G 63 AMG,2019,Qara,60000,Avtomat,Xeyr,4.0,585,Benzin
+77350.0,Mercedes,E 300 de,2020,Yaş Asfalt,78000,Avtomat,Xeyr,3.0,320,Plug-in Hibrid
+52700.0,Hyundai,Tucson,2024,Boz,0,Avtomat,Bəli,2.0,161,Benzin
+55675.0,Kia,Sorento,2023,Ağ,14200,Avtomat,Xeyr,1.6,230,Hibrid
+36900.0,Hyundai,Sonata,2020,Göy,159000,Avtomat,Xeyr,2.0,165,Benzin
+37900.0,Hyundai,Elantra,2024,Yaş Asfalt,0,Avtomat,Bəli,1.6,127,Benzin
+26000.0,Kia,Forte,2020,Tünd qırmızı,29000,Variator,Xeyr,2.0,147,Benzin
+76160.0,BMW,530e,2022,Göy,30000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+25900.0,Hyundai,Elantra,2019,Yaş Asfalt,91000,Avtomat,Xeyr,2.0,150,Benzin
+36500.0,Hyundai,Sonata,2020,Gümüşü,80000,Avtomat,Xeyr,1.5,180,Benzin
+63750.0,Kia,Carnival,2021,Qara,48750,Avtomat,Xeyr,2.2,202,Dizel
+89250.0,Mercedes,E 300 de,2022,Gümüşü,31500,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+144500.0,BMW,X5,2022,Qara,55500,Avtomat,Xeyr,3.0,306,Benzin
+40500.0,Hyundai,Sonata,2022,Yaş Asfalt,31000,Avtomat,Xeyr,1.6,183,Benzin
+58500.0,Kia,Sportage,2023,Boz,0,Avtomat,Bəli,1.6,141,Dizel
+25800.0,Kia,Forte,2019,Göy,89404,Variator,Xeyr,2.0,147,Benzin
+95030.0,Mercedes,GLE 350 4MATIC,2020,Ağ,64000,Avtomat,Xeyr,2.0,258,Benzin
+27800.0,Hyundai,Elantra,2020,Ağ,104607,Avtomat,Xeyr,2.0,150,Benzin
+57630.0,Hyundai,Grandeur,2021,Qara,57000,Avtomat,Xeyr,2.5,190,Benzin
+141100.0,BMW,530e,2024,Boz,9000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+54230.0,Hyundai,Grandeur,2021,Qara,106000,Avtomat,Xeyr,2.4,210,Hibrid
+54740.0,BMW,530,2019,Qara,17600,Avtomat,Xeyr,2.0,249,Benzin
+27000.0,Kia,Forte,2019,Yaş Asfalt,87000,Variator,Xeyr,2.0,147,Benzin
+24400.0,Hyundai,Elantra,2020,Qara,150919,Avtomat,Xeyr,2.0,150,Benzin
+85850.0,BMW,530e,2022,Yaş Asfalt,43000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+125420.9,BMW,X7,2019,Qara,103600,Avtomat,Xeyr,3.0,340,Benzin
+117300.0,BMW,X5,2019,Göy,40000,Avtomat,Xeyr,3.0,340,Benzin
+25700.0,Hyundai,Elantra,2020,Qara,54500,Avtomat,Xeyr,2.0,150,Benzin
+84830.0,Mercedes,GLE 350 4MATIC,2020,Göy,171000,Avtomat,Xeyr,2.0,258,Benzin
+42900.0,Kia,Sorento,2019,Yaş Asfalt,155000,Avtomat,Xeyr,2.0,184,Dizel
+40000.0,Hyundai,Elantra,2022,Yaş Asfalt,6000,Avtomat,Xeyr,2.0,150,Benzin
+49500.0,Kia,Sorento,2020,Boz,176000,Avtomat,Xeyr,2.0,184,Dizel
+24500.0,Kia,Forte,2019,Göy,81600,Variator,Xeyr,2.0,147,Benzin
+40500.0,Hyundai,Sonata,2021,Ağ,48183,Avtomat,Xeyr,1.6,183,Benzin
+142630.0,BMW,X5,2023,Qara,13100,Avtomat,Xeyr,2.0,238,Dizel
+23000.0,Hyundai,Accent,2020,Yaş Asfalt,75000,Avtomat,Xeyr,1.6,140,Benzin
+29500.0,Hyundai,Tucson,2020,Qara,63285,Avtomat,Xeyr,2.0,150,Benzin
+45900.0,Kia,Sorento,2019,Ağ,114000,Avtomat,Xeyr,2.0,184,Dizel
+40000.0,Kia,K5,2020,Qara,90123,Avtomat,Xeyr,1.6,180,Benzin
+43000.0,Kia,K5,2022,Boz,79500,Avtomat,Xeyr,1.6,180,Benzin
+56950.0,Mercedes,E 220 d,2020,Boz,208000,Avtomat,Xeyr,2.2,194,Dizel
+122400.0,BMW,X5,2019,Qara,93000,Avtomat,Xeyr,3.0,340,Benzin
+80750.0,Mercedes,E 300 de,2020,Boz,61000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+255550.0,BMW,X7,2023,Boz,0,Avtomat,Bəli,3.0,381,Benzin
+164900.0,BMW,X5,2023,Ağ,7700,Avtomat,Xeyr,3.0,381,Benzin
+29700.0,Hyundai,Elantra,2021,Boz,119000,Avtomat,Xeyr,2.0,150,Benzin
+23200.0,Hyundai,Accent,2020,Qara,168000,Avtomat,Xeyr,1.6,140,Benzin
+37800.0,Hyundai,Sonata,2020,Boz,146450,Avtomat,Xeyr,1.6,183,Benzin
+53900.0,Kia,Sportage,2024,Qırmızı,0,Avtomat,Bəli,2.0,150,Benzin
+225930.0,BMW,X5,2024,Qara,560,Avtomat,Xeyr,3.0,491,Plug-in Hibrid
+47900.0,Kia,Sorento,2019,Qara,145000,Avtomat,Xeyr,2.0,184,Dizel
+27400.0,Kia,Forte,2019,Gümüşü,100000,Variator,Xeyr,2.0,147,Benzin
+50830.0,Hyundai,Sonata,2022,Boz,24400,Avtomat,Xeyr,2.0,197,Hibrid
+36800.0,Kia,K5,2019,Qara,99000,Avtomat,Xeyr,2.0,165,Benzin
+63750.0,Kia,Sorento,2023,Yaş Asfalt,8900,Avtomat,Xeyr,1.6,230,Hibrid
+37500.0,Hyundai,Sonata,2021,Yaş Asfalt,68000,Avtomat,Xeyr,1.6,183,Benzin
+77500.0,Hyundai,Santa Fe,2024,Qara,0,Avtomat,Bəli,2.5,180,Benzin
+25900.0,Hyundai,Elantra,2021,Yaş Asfalt,78000,Avtomat,Xeyr,2.0,150,Benzin
+26000.0,Hyundai,Elantra,2019,Ağ,85000,Avtomat,Xeyr,2.0,150,Benzin
+73100.0,Mercedes,E 220 d,2019,Yaş Asfalt,88000,Avtomat,Xeyr,2.0,194,Dizel
+67490.0,BMW,530,2021,Boz,42600,Avtomat,Xeyr,2.0,249,Benzin
+23800.0,Hyundai,Accent,2019,Gümüşü,117482,Avtomat,Xeyr,1.6,140,Benzin
+123250.0,BMW,X5,2021,Qara,33000,Avtomat,Xeyr,3.0,340,Benzin
+44800.0,Kia,Sorento,2019,Qara,99000,Avtomat,Xeyr,2.0,184,Dizel
+25900.0,Hyundai,Elantra,2019,Qara,128748,Avtomat,Xeyr,2.0,150,Benzin
+75500.0,Kia,Sorento,2023,Ağ,13000,Avtomat,Xeyr,2.2,200,Dizel
+44000.0,Kia,Sportage,2022,Ağ,90000,Avtomat,Xeyr,2.0,150,Benzin
+96050.0,BMW,X5,2019,Qara,108000,Avtomat,Xeyr,3.0,340,Benzin
+59330.0,Kia,Sorento,2020,Qara,120000,Avtomat,Xeyr,1.6,230,Hibrid
+33900.0,Hyundai,Elantra,2023,Qara,36000,Avtomat,Xeyr,1.6,128,Benzin
+28700.0,Hyundai,Elantra,2019,Göy,11203,Avtomat,Xeyr,2.0,150,Benzin
+27600.0,Hyundai,Elantra,2019,Qara,35000,Avtomat,Xeyr,1.6,132,Benzin
+38500.0,Kia,K5,2020,Tünd qırmızı,33400,Avtomat,Xeyr,1.6,180,Benzin
+59500.0,Hyundai,Santa Fe,2022,Qara,38000,Avtomat,Xeyr,2.5,194,Benzin
+38700.0,Kia,K5,2020,Boz,123000,Robot,Xeyr,1.6,180,Benzin
+40200.0,Kia,Cerato,2023,Mavi,0,Avtomat,Bəli,1.6,130,Benzin
+49900.0,Kia,K5,2022,Yaş Asfalt,45000,Avtomat,Xeyr,2.0,150,Benzin
+32400.0,Hyundai,Elantra,2024,Ağ,0,Variator,Bəli,1.5,115,Benzin
+79390.0,BMW,530e,2020,Göy,36000,Avtomat,Xeyr,2.0,249,Plug-in Hibrid
+24900.0,Hyundai,Accent,2020,Ağ,144841,Avtomat,Xeyr,1.6,140,Benzin
+35800.0,Hyundai,Elantra,2021,Qara,59600,Avtomat,Xeyr,1.6,128,Benzin
+59500.0,BMW,330,2021,Yaş Asfalt,97000,Avtomat,Xeyr,2.0,258,Benzin
+100130.0,BMW,530,2023,Göy,390,Avtomat,Xeyr,2.0,249,Benzin
+81600.0,BMW,530e,2022,Yaş Asfalt,42500,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+110500.0,BMW,520,2023,Qara,22000,Avtomat,Xeyr,2.0,208,Benzin
+22499.0,Hyundai,Sonata,2023,Qara,28112,Avtomat,Xeyr,2.0,165,Benzin
+66130.0,BMW,330,2019,Gümüşü,120000,Avtomat,Xeyr,2.0,249,Benzin
+101830.0,Mercedes,E 300 de,2021,Yaş Asfalt,50500,Avtomat,Xeyr,2.0,245,Plug-in Hibrid
+79900.0,Mercedes,E 300 de,2020,Qara,41000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+46800.0,Hyundai,Sonata,2021,Yaş Asfalt,69500,Avtomat,Xeyr,2.0,156,Hibrid
+84490.0,BMW,530e,2021,Göy,37000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+101150.0,BMW,X5,2019,Qara,77000,Avtomat,Xeyr,3.0,340,Benzin
+36900.0,Hyundai,Sonata,2020,Yaş Asfalt,98000,Avtomat,Xeyr,1.6,183,Benzin
+166600.0,Mercedes,GLS 450 4MATIC,2020,Qara,34000,Avtomat,Xeyr,3.0,367,Benzin
+36900.0,Hyundai,Sonata,2020,Göy,123000,Avtomat,Xeyr,2.0,193,Hibrid
+39500.0,Hyundai,Santa Fe,2019,Gümüşü,37000,Avtomat,Xeyr,2.0,265,Benzin
+67490.0,Kia,Carnival,2022,Boz,69000,Avtomat,Xeyr,2.2,202,Dizel
+47600.0,Hyundai,Sonata,2022,Qara,49500,Avtomat,Xeyr,2.0,165,Benzin
+27700.0,Kia,Forte,2021,Qara,117482,Variator,Xeyr,2.0,147,Benzin
+29000.0,Hyundai,Elantra,2019,Ağ,187000,Avtomat,Xeyr,1.6,132,Benzin
+33800.0,Kia,Forte,2021,Ağ,78000,Robot,Xeyr,1.6,201,Benzin
+45500.0,Kia,Sorento,2019,Qara,149000,Avtomat,Xeyr,2.4,188,Benzin
+58500.0,Hyundai,Sonata,2024,Ağ,1643,Avtomat,Xeyr,2.0,193,Hibrid
+212500.0,BMW,X7,2023,Qara,18000,Avtomat,Xeyr,3.0,400,Dizel
+30600.0,Hyundai,Elantra,2021,Qara,55000,Avtomat,Xeyr,2.0,150,Benzin
+42120.9,Hyundai,Sonata,2020,Qara,74000,Avtomat,Xeyr,2.0,192,Hibrid
+49300.0,Hyundai,Tucson,2021,Qara,94000,Avtomat,Xeyr,2.0,150,Dizel
+40000.0,Hyundai,Tucson,2022,Qara,82000,Avtomat,Xeyr,2.0,150,Benzin
+425000.0,Mercedes,G 63 AMG,2022,Yaş Asfalt,2000,Avtomat,Xeyr,4.0,585,Benzin
+27500.0,Hyundai,Elantra,2020,Ağ,75000,Avtomat,Xeyr,2.0,150,Benzin
+99450.0,Mercedes,E 300 e,2022,Yaş Asfalt,16049,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+76160.0,Hyundai,Santa Fe,2024,Ağ,4500,Avtomat,Xeyr,1.6,230,Hibrid
+58650.0,BMW,530,2019,Ağ,49000,Avtomat,Xeyr,2.0,250,Benzin
+48500.0,Hyundai,Sonata,2020,Boz,46000,Avtomat,Xeyr,2.0,192,Hibrid
+154700.0,BMW,X5,2022,Qara,20900,Avtomat,Xeyr,3.0,340,Benzin
+72760.0,Mercedes,E 300 e,2021,Qəhvəyi,22000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+132260.0,BMW,X5,2022,Göy,10000,Avtomat,Xeyr,3.0,340,Benzin
+26500.0,Kia,Cerato,2019,Yaş Asfalt,105000,Avtomat,Xeyr,2.0,150,Benzin
+64600.0,Mercedes,E 220 d,2019,Ağ,29707,Avtomat,Xeyr,2.0,194,Dizel
+63900.0,Kia,K5,2024,Yaş Asfalt,0,Avtomat,Bəli,2.5,194,Benzin
+67660.0,Kia,Sorento,2023,Ağ,27000,Avtomat,Xeyr,1.6,190,Hibrid
+35500.0,Hyundai,Elantra,2021,Ağ,53100,Avtomat,Xeyr,1.6,132,Benzin
+102000.0,BMW,X5,2020,Qara,80000,Avtomat,Xeyr,3.0,340,Benzin
+38500.0,Kia,Sportage,2020,Ağ,140700,Avtomat,Xeyr,2.0,184,Dizel
+139400.0,BMW,X5,2021,Qara,52700,Avtomat,Xeyr,3.0,340,Benzin
+42160.0,Kia,K5,2021,Gümüşü,56000,Avtomat,Xeyr,1.6,180,Benzin
+69500.0,Hyundai,Santa Fe,2023,Ağ,5000,Avtomat,Xeyr,1.6,230,Hibrid
+59330.0,Kia,Carnival,2020,Qara,112400,Avtomat,Xeyr,2.2,202,Dizel
+32700.0,Hyundai,Elantra,2022,Ağ,41000,Avtomat,Xeyr,1.6,132,Benzin
+60900.0,Hyundai,Tucson,2024,Qara,0,Avtomat,Bəli,1.6,230,Hibrid
+62730.0,BMW,530,2021,Qara,52000,Avtomat,Xeyr,2.0,249,Benzin
+144500.0,Mercedes,GLS 450 4MATIC,2020,Qara,28000,Avtomat,Xeyr,3.0,367,Hibrid
+50000.0,Hyundai,Sonata,2023,Ağ,20000,Avtomat,Xeyr,2.0,165,Benzin
+27500.0,Hyundai,Elantra,2019,Boz,70200,Avtomat,Xeyr,2.0,150,Benzin
+101320.0,Mercedes,E 300 e,2021,Qara,38000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+27500.0,Kia,Cerato,2021,Ağ,76650,Avtomat,Xeyr,2.0,150,Benzin
+57800.0,Kia,Sorento,2020,Qara,93000,Avtomat,Xeyr,2.2,200,Dizel
+27900.0,Hyundai,Accent,2021,Yaş Asfalt,33000,Avtomat,Xeyr,1.6,140,Benzin
+275500.0,Mercedes,GLS 450 4MATIC,2023,Qara,0,Avtomat,Bəli,3.0,367,Benzin
+178500.0,BMW,X5,2023,Göy,26000,Avtomat,Xeyr,3.0,380,Benzin
+59900.0,Hyundai,Sonata,2024,Boz,0,Avtomat,Bəli,2.5,194,Benzin
+65960.0,Kia,Sorento,2022,Ağ,30220,Avtomat,Xeyr,1.6,230,Hibrid
+49900.0,Kia,Sportage,2024,Yaş Asfalt,0,Avtomat,Bəli,1.6,138,Dizel
+46750.0,Hyundai,Sonata,2021,Qara,51000,Avtomat,Xeyr,2.0,198,Hibrid
+46500.0,Kia,Carnival,2019,Qara,184000,Avtomat,Xeyr,2.2,202,Dizel
+93330.0,Mercedes,GLS 450 4MATIC,2019,Yaş Asfalt,50000,Avtomat,Xeyr,3.0,367,Benzin
+29700.0,Hyundai,Elantra,2019,Boz,94378,Avtomat,Xeyr,1.6,132,Benzin
+58000.0,Hyundai,Sonata,2021,Boz,42000,Avtomat,Xeyr,2.5,180,Benzin
+26300.0,Hyundai,Elantra,2019,Boz,75000,Avtomat,Xeyr,2.0,150,Benzin
+127500.0,BMW,530e,2024,Göy,2400,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+58650.0,BMW,330,2020,Ağ,60000,Avtomat,Xeyr,2.0,249,Benzin
+31900.0,Hyundai,Elantra,2021,Ağ,24000,Avtomat,Xeyr,2.0,150,Benzin
+51000.0,Kia,Sorento,2019,Qara,149000,Avtomat,Xeyr,2.0,187,Dizel
+26400.0,Kia,Forte,2019,Qara,80467,Variator,Xeyr,2.0,147,Benzin
+37800.0,Hyundai,Elantra,2021,Yaş Asfalt,90000,Avtomat,Xeyr,2.0,150,Benzin
+74800.0,Kia,Carnival,2023,Qara,32900,Avtomat,Xeyr,2.2,202,Dizel
+30583.0,Hyundai,Elantra,2023,Mavi,0,Variator,Bəli,1.5,115,Benzin
+100300.0,BMW,X5,2019,Qara,68000,Avtomat,Xeyr,3.0,340,Benzin
+48450.0,Hyundai,Sonata,2020,Ağ,84500,Avtomat,Xeyr,2.5,180,Benzin
+26100.0,Kia,Forte,2020,Göy,82000,Variator,Xeyr,2.0,147,Benzin
+62050.0,Mercedes,E 220 d,2019,Qara,211000,Avtomat,Xeyr,2.0,194,Dizel
+60000.0,Kia,Carnival,2020,Ağ,108777,Avtomat,Xeyr,2.2,202,Dizel
+52360.0,Hyundai,Grandeur,2021,Yaş Asfalt,48000,Avtomat,Xeyr,2.4,159,Hibrid
+119000.0,BMW,520,2024,Qara,0,Avtomat,Bəli,2.0,184,Benzin
+43500.0,Hyundai,Sonata,2021,Boz,22300,Avtomat,Xeyr,2.0,192,Hibrid
+61200.0,Kia,Sorento,2022,Ağ,16000,Avtomat,Xeyr,1.6,269,Hibrid
+25200.0,Hyundai,Elantra,2020,Qara,88514,Avtomat,Xeyr,2.0,150,Benzin
+74460.0,Hyundai,Grandeur,2023,Qara,13500,Avtomat,Xeyr,1.6,230,Plug-in Hibrid
+159043.5,Mercedes,GLS 450 4MATIC,2020,Qara,57000,Avtomat,Xeyr,3.0,367,Benzin
+175100.0,BMW,X5,2023,Qara,19000,Avtomat,Xeyr,3.0,381,Benzin
+144500.0,BMW,X5,2022,Qara,30000,Avtomat,Xeyr,3.0,340,Benzin
+39000.0,Kia,Forte,2022,Qara,56000,Variator,Xeyr,2.0,147,Benzin
+64090.0,Kia,Sorento,2022,Qara,12000,Avtomat,Xeyr,1.6,230,Hibrid
+120700.0,Mercedes,GLE 350 4MATIC,2022,Qara,28000,Avtomat,Xeyr,2.0,337,Plug-in Hibrid
+42500.0,Hyundai,Sonata,2022,Boz,26000,Avtomat,Xeyr,1.6,183,Benzin
+45900.0,Kia,K5,2021,Ağ,71400,Avtomat,Xeyr,2.0,155,Benzin
+39900.0,Kia,Sorento,2019,Qara,69202,Avtomat,Xeyr,2.4,188,Benzin
+39000.0,Hyundai,Tucson,2020,Ağ,110000,Avtomat,Xeyr,2.0,165,Benzin
+149600.0,Mercedes,GLS 450 4MATIC,2019,Qara,49500,Avtomat,Xeyr,3.0,367,Benzin
+43180.0,Hyundai,Sonata,2020,Göy,56000,Avtomat,Xeyr,2.5,180,Benzin
+143990.0,BMW,X7,2021,Qara,67000,Avtomat,Xeyr,3.0,340,Benzin
+42000.0,Hyundai,Elantra,2022,Ağ,6900,Avtomat,Xeyr,2.0,150,Benzin
+125630.0,Mercedes,GLE 350 4MATIC,2021,Qara,46000,Avtomat,Xeyr,2.0,337,Plug-in Hibrid
+63410.0,Kia,Sorento,2023,Boz,120,Avtomat,Xeyr,1.6,230,Hibrid
+34900.0,Hyundai,Elantra,2020,Qara,60000,Avtomat,Xeyr,2.0,150,Benzin
+202130.0,Mercedes,GLS 450 4MATIC,2022,Qara,0,Avtomat,Bəli,3.0,367,Benzin
+40500.0,Hyundai,Elantra,2022,Boz,66700,Avtomat,Xeyr,1.6,132,Benzin
+59300.0,Hyundai,Grandeur,2021,Ağ,126000,Avtomat,Xeyr,2.4,201,Hibrid
+35200.0,Hyundai,Elantra,2021,Ağ,62500,Avtomat,Xeyr,2.0,150,Benzin
+127500.0,BMW,X5,2022,Yaş Asfalt,68000,Avtomat,Xeyr,3.0,350,Plug-in Hibrid
+38500.0,Kia,Sorento,2019,Qara,136655,Avtomat,Xeyr,2.0,184,Dizel
+33025.0,Kia,Forte,2020,Qara,101000,Variator,Xeyr,2.0,147,Benzin
+42000.0,Hyundai,Sonata,2020,Qara,81000,Avtomat,Xeyr,2.0,192,Hibrid
+77860.0,Mercedes,E 300 de,2022,Qara,75000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+90950.0,BMW,520,2023,Qara,26600,Avtomat,Xeyr,2.0,184,Benzin
+90100.0,Mercedes,E 300 e,2021,Ağ,67000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+53550.0,Hyundai,Grandeur,2021,Boz,58450,Avtomat,Xeyr,2.5,201,Benzin
+220830.0,BMW,X5,2024,Qara,270,Avtomat,Xeyr,3.0,489,Plug-in Hibrid
+33900.0,Hyundai,Elantra,2020,Gümüşü,15200,Avtomat,Xeyr,2.0,150,Benzin
+258230.0,BMW,X7,2024,Qara,0,Avtomat,Bəli,3.0,381,Benzin
+84900.0,Hyundai,Grandeur,2024,Boz,0,Avtomat,Bəli,1.6,230,Hibrid
+25400.0,Kia,Forte,2020,Göy,25600,Variator,Xeyr,2.0,197,Benzin
+73100.0,Mercedes,E 220 d,2019,Qara,78000,Avtomat,Xeyr,2.2,194,Dizel
+27000.0,Hyundai,Elantra,2020,Boz,119091,Avtomat,Xeyr,2.0,150,Benzin
+29500.0,Kia,Forte,2020,Gümüşü,80467,Variator,Xeyr,2.0,147,Benzin
+31000.0,Hyundai,Elantra,2021,Yaş Asfalt,77431,Avtomat,Xeyr,1.6,132,Benzin
+61030.0,BMW,530e,2019,Qara,70000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+66300.0,BMW,530,2021,Qara,91000,Avtomat,Xeyr,2.0,249,Benzin
+21900.0,Hyundai,Accent,2021,Gümüşü,110000,Avtomat,Xeyr,1.6,140,Benzin
+53900.0,Hyundai,Sonata,2024,Boz,0,Avtomat,Bəli,2.5,194,Benzin
+35000.0,Kia,K5,2021,Yaş Asfalt,99540,Avtomat,Xeyr,1.6,177,Benzin
+56900.0,Kia,K5,2024,Ağ,0,Avtomat,Bəli,2.5,194,Benzin
+59500.0,BMW,330,2021,Ağ,35500,Avtomat,Xeyr,2.0,258,Benzin
+26000.0,Kia,Forte,2019,Qırmızı,106000,Variator,Xeyr,2.0,147,Benzin
+39800.0,Hyundai,Sonata,2020,Boz,47000,Avtomat,Xeyr,2.0,192,Hibrid
+26000.0,Hyundai,Elantra,2019,Yaş Asfalt,135185,Avtomat,Xeyr,2.0,150,Benzin
+58990.0,Kia,Carnival,2020,Boz,102000,Avtomat,Xeyr,2.2,202,Dizel
+38000.0,Kia,K5,2021,Yaş Asfalt,110000,Avtomat,Xeyr,2.0,150,Benzin
+50500.0,Kia,K5,2023,Ağ,38400,Avtomat,Xeyr,2.0,150,Benzin
+77900.0,Hyundai,Grandeur,2024,Qara,0,Avtomat,Bəli,1.6,230,Hibrid
+48000.0,Hyundai,Tucson,2023,Qara,4600,Avtomat,Xeyr,1.6,250,Hibrid
+67830.0,Kia,Sorento,2021,Qara,49000,Avtomat,Xeyr,1.6,230,Hibrid
+41500.0,Hyundai,Santa Fe,2019,Qara,135185,Avtomat,Xeyr,2.4,188,Benzin
+25500.0,Kia,Forte,2020,Qara,86300,Variator,Xeyr,2.0,147,Benzin
+25800.0,Kia,Cerato,2019,Boz,77249,Avtomat,Xeyr,2.0,150,Benzin
+85000.0,Hyundai,Grandeur,2024,Ağ,0,Avtomat,Bəli,1.6,230,Hibrid
+30800.0,Hyundai,Elantra,2021,Boz,88031,Avtomat,Xeyr,2.0,150,Benzin
+51000.0,Hyundai,Sonata,2023,Qara,17000,Avtomat,Xeyr,2.0,150,Benzin
+41777.0,Hyundai,Sonata,2020,Qara,54200,Avtomat,Xeyr,2.0,192,Hibrid
+54500.0,Hyundai,Tucson,2024,Qara,0,Avtomat,Bəli,1.6,230,Hibrid
+93500.0,Mercedes,E 300 de,2020,Yaş Asfalt,64500,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+41900.0,Hyundai,Elantra,2023,Boz,27500,Avtomat,Xeyr,2.0,150,Benzin
+181050.0,Mercedes,GLS 450 4MATIC,2021,Qara,24000,Avtomat,Xeyr,3.0,367,Benzin
+39900.0,Hyundai,Sonata,2020,Yaş Asfalt,85501,Avtomat,Xeyr,1.6,180,Benzin
+25700.0,Kia,Forte,2019,Göy,49500,Variator,Xeyr,2.0,147,Benzin
+72930.0,Kia,Sorento,2023,Yaş Asfalt,64600,Robot,Xeyr,2.2,200,Dizel
+40900.0,Kia,Carnival,2019,Ağ,180000,Avtomat,Xeyr,2.2,202,Dizel
+100130.0,BMW,X5,2019,Ağ,73000,Avtomat,Xeyr,3.0,340,Benzin
+66130.0,Hyundai,Grandeur,2023,Qara,19000,Avtomat,Xeyr,1.6,230,Hibrid
+41500.0,Hyundai,Elantra,2024,Yaş Asfalt,0,Avtomat,Bəli,1.6,127,Benzin
+49500.0,Kia,Sorento,2021,Ağ,115000,Avtomat,Xeyr,2.2,200,Dizel
+212500.0,BMW,X7,2022,Qara,36000,Avtomat,Xeyr,3.0,381,Benzin
+38900.0,Kia,Cerato,2022,Yaş Asfalt,34000,Avtomat,Xeyr,2.0,150,Benzin
+24500.0,Hyundai,Elantra,2019,Göy,105251,Avtomat,Xeyr,2.0,150,Benzin
+84830.0,BMW,530e,2022,Qara,55000,Avtomat,Xeyr,2.0,292,Benzin
+76500.0,BMW,530e,2022,Qara,55000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+26600.0,Kia,Forte,2019,Ağ,99425,Variator,Xeyr,2.0,147,Benzin
+84150.0,Mercedes,E 300 de,2021,Qara,52000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+70550.0,Hyundai,Grandeur,2023,Qara,11500,Avtomat,Xeyr,1.6,230,Hibrid
+132600.0,BMW,X7,2019,Qara,149000,Avtomat,Xeyr,3.0,340,Benzin
+32900.0,Hyundai,Sonata,2019,Boz,71616,Avtomat,Xeyr,2.4,188,Benzin
+25000.0,Hyundai,Accent,2021,Ağ,37015,Avtomat,Xeyr,1.6,140,Benzin
+85340.0,BMW,530e,2020,Qara,50000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+157250.0,Mercedes,GLS 450 4MATIC,2020,Qara,74000,Avtomat,Xeyr,3.0,367,Benzin
+84900.0,Hyundai,Grandeur,2024,Ağ,0,Avtomat,Bəli,1.6,230,Hibrid
+26800.0,Hyundai,Accent,2021,Yaş Asfalt,65000,Avtomat,Xeyr,1.6,140,Benzin
+105400.0,BMW,520,2024,Qara,8000,Avtomat,Xeyr,2.0,204,Benzin
+59500.0,Kia,K5,2024,Boz,0,Avtomat,Bəli,2.0,157,Hibrid
+64800.0,Hyundai,Santa Fe,2023,Ağ,7000,Avtomat,Xeyr,1.6,230,Hibrid
+44400.0,Kia,Sorento,2019,Yaş Asfalt,105100,Avtomat,Xeyr,2.0,184,Dizel
+49500.0,Hyundai,Tucson,2022,Qara,50000,Avtomat,Xeyr,2.0,150,Benzin
+47600.0,Kia,Sportage,2019,Ağ,52000,Avtomat,Xeyr,2.4,184,Benzin
+53550.0,BMW,330,2020,Göy,39800,Avtomat,Xeyr,2.0,258,Benzin
+62900.0,BMW,530e,2020,Qara,115000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+36700.0,Kia,K5,2021,Ağ,61000,Avtomat,Xeyr,1.6,180,Benzin
+29400.0,Kia,Forte,2021,Yaş Asfalt,40000,Variator,Xeyr,2.0,147,Benzin
+68000.0,Kia,Sorento,2022,Ağ,64000,Avtomat,Xeyr,1.6,230,Hibrid
+24500.0,Hyundai,Accent,2020,Qırmızı,52000,Avtomat,Xeyr,1.6,140,Benzin
+76500.0,BMW,330,2022,Göy,18000,Avtomat,Xeyr,2.0,258,Benzin
+51500.0,Kia,Sorento,2019,Ağ,119000,Avtomat,Xeyr,2.0,184,Dizel
+57300.0,BMW,520,2019,Göy,270000,Avtomat,Xeyr,2.0,190,Dizel
+423300.0,Mercedes,G 63 AMG,2022,Qara,9000,Avtomat,Xeyr,4.0,585,Benzin
+38500.0,Hyundai,Tucson,2020,Qara,65000,Avtomat,Xeyr,2.0,150,Benzin
+37900.0,Hyundai,Sonata,2019,Göy,147365,Avtomat,Xeyr,2.0,165,Benzin
+91043.5,BMW,530e,2021,Göy,23000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+27500.0,Hyundai,Sonata,2019,Qara,89000,Avtomat,Xeyr,2.0,274,Benzin
+26300.0,Kia,Forte,2019,Yaş Asfalt,63688,Variator,Xeyr,2.0,147,Benzin
+36800.0,Kia,Sportage,2021,Yaş Asfalt,68000,Robot,Xeyr,1.7,141,Dizel
+38000.0,Hyundai,Elantra,2021,Ağ,30000,Robot,Xeyr,1.6,139,Hibrid
+42500.0,Hyundai,Tucson,2022,Qara,85000,Avtomat,Xeyr,2.0,150,Benzin
+65450.0,Hyundai,Grandeur,2023,Boz,26300,Avtomat,Xeyr,1.6,230,Hibrid
+41500.0,Kia,Sorento,2019,Qara,179000,Avtomat,Xeyr,2.0,184,Dizel
+57800.0,BMW,530,2019,Qara,96000,Avtomat,Xeyr,2.0,258,Benzin
+71400.0,Kia,Sorento,2023,Yaş Asfalt,12000,Avtomat,Xeyr,2.2,200,Dizel
+49000.0,Kia,Sorento,2019,Ağ,85600,Avtomat,Xeyr,2.0,184,Dizel
+25950.0,Kia,Cerato,2020,Gümüşü,76500,Avtomat,Xeyr,2.0,150,Benzin
+26900.0,Hyundai,Elantra,2019,Qırmızı,89000,Avtomat,Xeyr,2.0,150,Benzin
+65900.0,Kia,Sportage,2024,Yaşıl,0,Avtomat,Bəli,2.0,155,Benzin
+148750.0,BMW,X7,2021,Qara,28000,Avtomat,Xeyr,3.0,340,Benzin
+38000.0,Kia,Sportage,2020,Ağ,129000,Avtomat,Xeyr,2.0,184,Dizel
+121550.0,BMW,X5,2022,Qara,49000,Avtomat,Xeyr,3.0,306,Benzin
+47800.0,Hyundai,Sonata,2023,Gümüşü,7800,Avtomat,Xeyr,1.6,183,Benzin
+83300.0,Mercedes,E 300 de,2020,Qara,44500,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+329800.0,Mercedes,G 63 AMG,2020,Qara,42000,Avtomat,Xeyr,4.0,585,Benzin
+60350.0,BMW,530e,2019,Göy,72000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+42000.0,Hyundai,Sonata,2020,Ağ,235688,Avtomat,Xeyr,1.6,183,Benzin
+58500.0,Kia,Sorento,2022,Ağ,85000,Avtomat,Xeyr,1.6,230,Hibrid
+65450.0,Kia,Sorento,2021,Ağ,79500,Avtomat,Xeyr,1.6,230,Hibrid
+55250.0,BMW,330,2019,Yaş Asfalt,117300,Avtomat,Xeyr,2.0,258,Benzin
+24900.0,Hyundai,Elantra,2019,Qara,104672,Avtomat,Xeyr,2.0,150,Benzin
+37900.0,Kia,K5,2021,Tünd qırmızı,38000,Avtomat,Xeyr,1.6,180,Benzin
+28800.0,Kia,Forte,2021,Qırmızı,54000,Avtomat,Xeyr,1.6,201,Benzin
+38250.0,Hyundai,Santa Fe,2019,Yaş Asfalt,167000,Avtomat,Xeyr,2.4,188,Benzin
+48500.0,Kia,Sorento,2020,Qəhvəyi,125000,Avtomat,Xeyr,2.0,184,Dizel
+112030.0,BMW,X5,2019,Göy,42000,Avtomat,Xeyr,3.0,340,Benzin
+41310.0,Kia,Cerato,2022,Ağ,24100,Avtomat,Xeyr,2.0,150,Benzin
+76160.0,BMW,530e,2022,Qara,32000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+79900.0,Hyundai,Santa Fe,2024,Yaş Asfalt,0,Avtomat,Bəli,1.6,230,Hibrid
+105230.0,BMW,X5,2019,Göy,89000,Avtomat,Xeyr,3.0,340,Benzin
+28500.0,Hyundai,Elantra,2019,Ağ,122576,Avtomat,Xeyr,1.6,132,Benzin
+86700.0,BMW,530e,2023,Qara,39500,Avtomat,Xeyr,2.0,300,Plug-in Hibrid
+107950.0,Mercedes,E 300 e,2022,Yaş Asfalt,0,Avtomat,Bəli,2.0,320,Benzin
+79050.0,Hyundai,Grandeur,2023,Qara,19000,Avtomat,Xeyr,1.6,230,Hibrid
+61030.0,Kia,Sorento,2020,Ağ,159000,Avtomat,Xeyr,1.6,230,Hibrid
+89250.0,BMW,X5,2020,Ağ,59000,Avtomat,Xeyr,3.0,340,Benzin
+37400.0,Hyundai,Sonata,2019,Göy,143000,Avtomat,Xeyr,2.0,181,Benzin
+53900.0,Hyundai,Sonata,2024,Ağ,0,Avtomat,Bəli,2.5,194,Benzin
+56950.0,BMW,530,2019,Qara,30000,Avtomat,Xeyr,2.0,249,Benzin
+41500.0,Hyundai,Elantra,2024,Ağ,0,Avtomat,Bəli,1.6,128,Benzin
+189380.0,BMW,X7,2021,Göy,43507,Avtomat,Xeyr,3.0,340,Benzin
+58200.0,Kia,Sportage,2024,Ağ,0,Avtomat,Bəli,1.6,227,Hibrid
+59500.0,Hyundai,Tucson,2024,Boz,528,Avtomat,Xeyr,1.6,230,Hibrid
+39500.0,Hyundai,Elantra,2022,Ağ,32000,Avtomat,Xeyr,1.6,139,Hibrid
+134300.0,Mercedes,GLS 450 4MATIC,2019,Qara,80000,Avtomat,Xeyr,3.0,367,Benzin
+42700.0,Hyundai,Elantra,2024,Ağ,0,Variator,Bəli,1.5,156,Benzin
+51777.0,Kia,Carnival,2021,Ağ,57300,Avtomat,Xeyr,2.2,202,Dizel
+56900.0,Kia,K5,2024,Yaş Asfalt,0,Avtomat,Bəli,2.5,194,Benzin
+27500.0,Kia,Forte,2019,Qara,95853,Variator,Xeyr,2.0,147,Benzin
+50830.0,Kia,Sportage,2023,Ağ,61500,Avtomat,Xeyr,1.6,248,Hibrid
+81600.0,BMW,520,2021,Yaş Asfalt,28000,Avtomat,Xeyr,2.0,184,Benzin
+121550.0,BMW,X7,2019,Qara,96000,Avtomat,Xeyr,3.0,340,Benzin
+33800.0,Hyundai,Elantra,2021,Ağ,67000,Avtomat,Xeyr,1.6,139,Hibrid
+48620.0,BMW,530,2019,Qara,117000,Avtomat,Xeyr,2.0,252,Benzin
+43500.0,Hyundai,Sonata,2019,Ağ,59800,Avtomat,Xeyr,2.0,165,Benzin
+56500.0,Kia,Carnival,2021,Qara,111000,Avtomat,Xeyr,2.2,202,Dizel
+119700.0,Mercedes,E 300 e,2023,Boz,8000,Avtomat,Xeyr,2.0,313,Plug-in Hibrid
+24200.0,Kia,Cerato,2019,Qırmızı,82300,Avtomat,Xeyr,2.0,150,Benzin
+54400.0,Kia,Sorento,2022,Yaş Asfalt,57500,Avtomat,Xeyr,1.6,230,Hibrid
+146200.0,BMW,X7,2021,Qara,88600,Avtomat,Xeyr,3.0,249,Dizel
+52700.0,Hyundai,Sonata,2022,Ağ,19000,Variator,Xeyr,2.0,197,Hibrid
+24000.0,Hyundai,Accent,2021,Qara,19100,Avtomat,Xeyr,1.6,140,Benzin
+25500.0,Kia,Forte,2019,Qara,128942,Variator,Xeyr,2.0,147,Benzin
+130900.0,BMW,X5,2023,Qara,19500,Avtomat,Xeyr,2.0,238,Dizel
+52360.0,Kia,Sportage,2023,Qara,0,Robot,Bəli,1.6,136,Dizel
+135150.0,BMW,X5,2023,Qara,47000,Avtomat,Xeyr,3.0,381,Benzin
+35800.0,Kia,Forte,2022,Göy,45000,Variator,Xeyr,2.0,147,Benzin
+39950.0,Hyundai,Sonata,2020,Qara,150000,Avtomat,Xeyr,2.0,183,Hibrid
+38000.0,Kia,K5,2021,Qara,69300,Avtomat,Xeyr,2.0,150,Benzin
+52000.0,Kia,Sorento,2019,Göy,115000,Avtomat,Xeyr,2.0,184,Dizel
+246202.0,Mercedes,GLS 450 4MATIC,2024,Boz,0,Avtomat,Bəli,3.0,381,Benzin
+62730.0,Mercedes,E 220 d,2019,Qara,106000,Avtomat,Xeyr,2.0,194,Dizel
+25900.0,Kia,Forte,2019,Ağ,67000,Variator,Xeyr,2.0,147,Benzin
+69700.0,Kia,Sorento,2023,Qara,2600,Avtomat,Xeyr,1.6,230,Hibrid
+58650.0,Hyundai,Grandeur,2022,Ağ,47200,Avtomat,Xeyr,2.5,200,Benzin
+27900.0,Hyundai,Elantra,2019,Yaş Asfalt,74000,Avtomat,Xeyr,1.6,132,Benzin
+54400.0,Kia,K5,2021,Ağ,43193,Avtomat,Xeyr,2.5,194,Benzin
+38800.0,Kia,K5,2020,Boz,20700,Avtomat,Xeyr,1.6,180,Benzin
+35900.0,Hyundai,Elantra,2022,Qara,127200,Mexaniki,Xeyr,1.6,204,Benzin
+46500.0,Kia,Sorento,2020,Qəhvəyi,134000,Avtomat,Xeyr,2.0,184,Dizel
+23000.0,Hyundai,Accent,2019,Göy,114268,Avtomat,Xeyr,1.6,140,Benzin
+225150.0,BMW,X5,2024,Qara,0,Avtomat,Bəli,3.0,381,Benzin
+121159.0,BMW,530e,2024,Qara,9800,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+37500.0,Kia,K5,2021,Tünd qırmızı,113000,Avtomat,Xeyr,1.6,180,Benzin
+74420.9,Hyundai,Grandeur,2023,Ağ,0,Avtomat,Bəli,1.6,230,Hibrid
+55080.0,BMW,530,2019,Qara,67719,Avtomat,Xeyr,2.0,252,Benzin
+33000.0,Hyundai,Elantra,2024,Ağ,0,Variator,Bəli,1.5,115,Benzin
+319600.0,Mercedes,G 63 AMG,2019,Yaş Asfalt,97000,Avtomat,Xeyr,4.0,585,Benzin
+30500.0,Hyundai,Accent,2022,Ağ,25000,Avtomat,Xeyr,1.6,130,Benzin
+53900.0,Hyundai,Sonata,2024,Qara,0,Avtomat,Bəli,2.5,194,Benzin
+55900.0,Hyundai,Grandeur,2020,Qara,71500,Avtomat,Xeyr,2.4,250,Hibrid
+186830.0,BMW,X5,2023,Qara,17000,Avtomat,Xeyr,3.0,491,Plug-in Hibrid
+29000.0,Hyundai,Elantra,2019,Ağ,76000,Avtomat,Xeyr,2.0,150,Benzin
+51850.0,Kia,K5,2023,Qara,3800,Avtomat,Xeyr,1.6,183,Benzin
+27500.0,Hyundai,Elantra,2020,Qara,47000,Avtomat,Xeyr,2.0,150,Benzin
+27500.0,Kia,Forte,2019,Yaş Asfalt,57500,Variator,Xeyr,2.0,147,Benzin
+33200.0,Hyundai,Elantra,2021,Boz,119504,Variator,Xeyr,1.6,139,Hibrid
+33900.0,Kia,Sportage,2019,Qara,108000,Robot,Xeyr,1.6,136,Dizel
+117800.0,BMW,520,2024,Yaşıl,26000,Avtomat,Xeyr,2.0,228,Benzin
+37000.0,Hyundai,Sonata,2020,Qara,50000,Avtomat,Xeyr,1.6,183,Benzin
+27800.0,Hyundai,Elantra,2019,Gümüşü,28600,Avtomat,Xeyr,2.0,150,Benzin
+73100.0,Hyundai,Grandeur,2023,Ağ,11000,Avtomat,Xeyr,1.6,180,Hibrid
+42500.0,Kia,K5,2021,Göy,52510,Avtomat,Xeyr,1.6,190,Benzin
+54910.0,Kia,Sorento,2021,Ağ,50800,Avtomat,Xeyr,1.6,230,Hibrid
+73500.0,Kia,Sorento,2022,Ağ,26165,Avtomat,Xeyr,1.6,230,Hibrid
+41600.0,Hyundai,Sonata,2020,Göy,96800,Avtomat,Xeyr,2.0,165,Benzin
+48500.0,Kia,Sportage,2022,Göy,44800,Avtomat,Xeyr,1.6,227,Hibrid
+36500.0,Hyundai,Elantra,2023,Qara,26700,Avtomat,Xeyr,1.6,128,Benzin
+27500.0,Hyundai,Elantra,2019,Qara,49000,Avtomat,Xeyr,2.0,150,Benzin
+26800.0,Kia,Forte,2019,Ağ,66000,Variator,Xeyr,2.0,147,Benzin
+54400.0,Mercedes,E 220 d,2019,Qara,131000,Avtomat,Xeyr,2.0,194,Dizel
+59120.9,Kia,K5,2024,Qara,0,Avtomat,Bəli,2.0,156,Hibrid
+42840.0,Hyundai,Sonata,2021,Ağ,52600,Avtomat,Xeyr,2.0,192,Hibrid
+31000.0,Hyundai,Accent,2022,Qara,23000,Avtomat,Xeyr,1.6,140,Benzin
+141950.0,Mercedes,GLE 350 4MATIC,2023,Ağ,4000,Avtomat,Xeyr,2.0,265,Benzin
+64090.0,Mercedes,E 220 d,2020,Ağ,142500,Avtomat,Xeyr,2.0,197,Dizel
+132600.0,BMW,X7,2020,Qara,54000,Avtomat,Xeyr,3.0,340,Benzin
+39500.0,Hyundai,Elantra,2023,Qara,21000,Avtomat,Xeyr,1.6,132,Benzin
+36800.0,Hyundai,Elantra,2021,Boz,57000,Avtomat,Xeyr,1.6,139,Hibrid
+58650.0,Kia,Sorento,2021,Göy,83000,Avtomat,Xeyr,1.6,230,Hibrid
+68000.0,BMW,520,2019,Ağ,105000,Avtomat,Xeyr,2.0,190,Dizel
+39400.0,Hyundai,Sonata,2020,Ağ,130000,Avtomat,Xeyr,2.0,165,Benzin
+31400.0,Hyundai,Elantra,2021,Qara,123032,Avtomat,Xeyr,2.0,150,Benzin
+300390.0,Mercedes,G 63 AMG,2019,Ağ,88888,Avtomat,Xeyr,4.0,585,Benzin
+65000.0,BMW,530e,2021,Ağ,28880,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+33800.0,Hyundai,Elantra,2021,Ağ,12000,Avtomat,Xeyr,2.0,150,Benzin
+38500.0,Hyundai,Elantra,2022,Ağ,63000,Avtomat,Xeyr,1.6,138,Hibrid
+62050.0,BMW,530e,2019,Ağ,59200,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+27200.0,Hyundai,Elantra,2019,Qara,67000,Avtomat,Xeyr,2.0,150,Benzin
+35500.0,Hyundai,Elantra,2022,Qırmızı,58900,Avtomat,Xeyr,2.0,150,Benzin
+119000.0,BMW,X5,2021,Qara,21000,Avtomat,Xeyr,3.0,340,Benzin
+37500.0,Kia,K5,2021,Qara,58000,Avtomat,Xeyr,1.6,180,Benzin
+73100.0,Hyundai,Grandeur,2023,Qara,3223,Avtomat,Xeyr,1.6,230,Hibrid
+252388.4,Mercedes,GLS 450 4MATIC,2024,Qara,0,Avtomat,Bəli,3.0,367,Benzin
+27000.0,Hyundai,Elantra,2019,Yaş Asfalt,75000,Avtomat,Xeyr,2.0,150,Benzin
+27700.0,Kia,Forte,2020,Qara,79000,Variator,Xeyr,2.0,147,Benzin
+33200.0,Hyundai,Elantra,2022,Boz,14000,Avtomat,Xeyr,1.6,128,Benzin
+26900.0,Hyundai,Elantra,2019,Yaş Asfalt,126654,Avtomat,Xeyr,2.0,150,Benzin
+55250.0,BMW,530e,2019,Göy,128963,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+46500.0,Kia,K5,2022,Ağ,48000,Avtomat,Xeyr,2.0,156,Hibrid
+41500.0,Kia,Cerato,2023,Yaş Asfalt,21900,Avtomat,Xeyr,1.6,128,Benzin
+37900.0,Hyundai,Elantra,2024,Ağ,0,Variator,Bəli,1.5,156,Benzin
+38000.0,Kia,Sportage,2020,Ağ,141000,Avtomat,Xeyr,2.0,184,Dizel
+37900.0,Hyundai,Sonata,2019,Qara,98500,Avtomat,Xeyr,2.0,150,Benzin
+232900.0,BMW,X7,2023,Qara,12179,Avtomat,Xeyr,3.0,340,Benzin
+67660.0,BMW,530,2020,Qara,86000,Avtomat,Xeyr,2.0,249,Benzin
+209100.0,Mercedes,GLS 450 4MATIC,2022,Qara,6000,Avtomat,Xeyr,3.0,367,Benzin
+149600.0,BMW,X7,2019,Göy,29000,Avtomat,Xeyr,3.0,340,Benzin
+84150.0,BMW,530e,2021,Yaş Asfalt,67000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+48500.0,Hyundai,Sonata,2023,Qara,21000,Avtomat,Xeyr,2.0,165,Benzin
+97750.0,BMW,X5,2020,Qara,35874,Avtomat,Xeyr,3.0,340,Benzin
+127500.0,BMW,X7,2019,Qara,89100,Avtomat,Xeyr,3.0,340,Benzin
+105400.0,BMW,X5,2021,Göy,80000,Avtomat,Xeyr,3.0,340,Benzin
+36000.0,Hyundai,Santa Fe,2019,Qızılı,107000,Avtomat,Xeyr,2.0,265,Benzin
+38930.0,Hyundai,Sonata,2021,Göy,45625,Avtomat,Xeyr,1.6,183,Benzin
+455090.0,Mercedes,G 63 AMG,2021,Boz,44000,Avtomat,Xeyr,4.0,585,Benzin
+45000.0,Kia,Carnival,2019,Qara,105000,Avtomat,Xeyr,2.2,202,Dizel
+55250.0,BMW,530,2019,Ağ,42600,Avtomat,Xeyr,2.0,249,Benzin
+36500.0,Hyundai,Santa Fe,2019,Qırmızı,27000,Avtomat,Xeyr,2.0,250,Benzin
+23900.0,Kia,Forte,2019,Ağ,223000,Variator,Xeyr,2.0,147,Benzin
+37500.0,Hyundai,Sonata,2020,Qara,53000,Avtomat,Xeyr,1.6,183,Benzin
+84830.0,BMW,530e,2021,Göy,45900,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+61800.0,Hyundai,Sonata,2024,Qara,1800,Variator,Xeyr,2.0,192,Hibrid
+149220.9,BMW,530e,2024,Boz,9500,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+27500.0,Kia,Forte,2021,Yaş Asfalt,66057,Variator,Xeyr,2.0,147,Benzin
+147050.0,BMW,X7,2020,Qara,47000,Avtomat,Xeyr,3.0,340,Benzin
+63500.0,Hyundai,Santa Fe,2022,Ağ,32000,Avtomat,Xeyr,1.6,230,Hibrid
+49700.0,Kia,Sorento,2019,Yaş Asfalt,158100,Avtomat,Xeyr,2.0,185,Dizel
+39999.0,Hyundai,Sonata,2021,Yaş Asfalt,70000,Avtomat,Xeyr,1.6,183,Benzin
+25800.0,Kia,Forte,2019,Göy,80000,Variator,Xeyr,2.0,147,Benzin
+51000.0,Hyundai,Sonata,2023,Qara,29000,Avtomat,Xeyr,2.0,165,Benzin
+27500.0,Kia,Forte,2019,Göy,70000,Variator,Xeyr,2.0,147,Benzin
+32200.0,Hyundai,Elantra,2024,Ağ,0,Variator,Bəli,1.5,115,Benzin
+47900.0,Kia,Sorento,2019,Ağ,64000,Avtomat,Xeyr,2.2,200,Dizel
+78030.0,Mercedes,E 300 e,2022,Gümüşü,65000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+63900.0,Hyundai,Sonata,2024,Qara,0,Avtomat,Bəli,2.0,193,Hibrid
+54800.0,Kia,Sorento,2019,Ağ,143000,Avtomat,Xeyr,2.2,197,Dizel
+38000.0,Hyundai,Sonata,2020,Qara,85134,Avtomat,Xeyr,1.6,183,Benzin
+92650.0,BMW,530e,2022,Qara,17000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+59160.0,Hyundai,Grandeur,2022,Qara,65000,Avtomat,Xeyr,2.4,201,Benzin
+13599.0,Hyundai,Accent,2019,Ağ,90000,Avtomat,Xeyr,1.4,108,Benzin
+63750.0,Kia,Sorento,2022,Yaş Asfalt,37000,Avtomat,Xeyr,1.6,230,Hibrid
+51850.0,Mercedes,E 220 d,2019,Boz,201123,Avtomat,Xeyr,2.0,194,Dizel
+42900.0,Hyundai,Sonata,2019,Yaş Asfalt,85000,Avtomat,Xeyr,2.0,165,Benzin
+60350.0,BMW,530,2019,Gümüşü,31766,Avtomat,Xeyr,2.0,249,Benzin
+135620.9,BMW,530,2024,Ağ,4000,Avtomat,Xeyr,2.0,255,Benzin
+123500.0,BMW,520,2024,Ağ,0,Avtomat,Bəli,2.0,184,Benzin
+38800.0,Hyundai,Sonata,2020,Ağ,76820,Avtomat,Xeyr,1.6,181,Benzin
+46000.0,Kia,Carnival,2020,Göy,145500,Avtomat,Xeyr,2.2,202,Dizel
+187000.0,Mercedes,GLS 450 4MATIC,2022,Qara,20000,Avtomat,Xeyr,3.0,367,Benzin
+59000.0,Kia,Sportage,2023,Boz,1500,Avtomat,Xeyr,1.6,260,Plug-in Hibrid
+26400.0,Hyundai,Elantra,2019,Ağ,100919,Avtomat,Xeyr,1.8,150,Benzin
+101830.0,BMW,X5,2020,Qara,55000,Avtomat,Xeyr,2.0,218,Dizel
+113900.0,BMW,X7,2020,Boz,44000,Avtomat,Xeyr,3.0,380,Benzin
+113390.0,BMW,X7,2020,Yaş Asfalt,72400,Avtomat,Xeyr,3.0,340,Benzin
+35900.0,Kia,Sportage,2019,Qara,32000,Avtomat,Xeyr,2.0,185,Dizel
+43700.0,Hyundai,Santa Fe,2019,Boz,111000,Avtomat,Xeyr,2.0,235,Benzin
+62730.0,Kia,Sorento,2021,Göy,23000,Avtomat,Xeyr,1.6,230,Hibrid
+221350.0,BMW,X5,2024,Qara,0,Avtomat,Bəli,3.0,352,Dizel
+43800.0,Hyundai,Sonata,2022,Ağ,136617,Avtomat,Xeyr,2.0,193,Hibrid
+476000.0,Mercedes,G 63 AMG,2023,Qara,5000,Avtomat,Xeyr,4.0,585,Benzin
+56950.0,BMW,330,2022,Yaş Asfalt,37000,Avtomat,Xeyr,2.0,258,Benzin
+232730.0,BMW,X5,2024,Qara,0,Avtomat,Bəli,3.0,491,Plug-in Hibrid
+24900.0,Hyundai,Elantra,2019,Qırmızı,77900,Avtomat,Xeyr,2.0,181,Benzin
+68000.0,BMW,530e,2021,Ağ,70000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+47900.0,Hyundai,Tucson,2024,Qara,0,Avtomat,Bəli,2.0,154,Benzin
+47000.0,Kia,Sorento,2019,Yaş Asfalt,120000,Avtomat,Xeyr,2.0,184,Dizel
+101998.3,Mercedes,E 300 e,2022,Yaş Asfalt,0,Avtomat,Bəli,2.0,320,Plug-in Hibrid
+41700.0,Hyundai,Sonata,2019,Yaş Asfalt,159055,Avtomat,Xeyr,2.0,245,Benzin
+24700.0,Hyundai,Elantra,2019,Tünd qırmızı,37000,Avtomat,Xeyr,2.0,150,Benzin
+53550.0,BMW,330,2021,Yaşıl,33500,Avtomat,Xeyr,2.0,258,Benzin
+65450.0,Kia,Sorento,2022,Qara,2900,Avtomat,Xeyr,1.6,230,Hibrid
+321300.0,Mercedes,G 63 AMG,2019,Qara,63000,Avtomat,Xeyr,4.0,585,Benzin
+62520.9,Kia,Sorento,2021,Ağ,49900,Robot,Xeyr,2.2,200,Dizel
+53900.0,Hyundai,Sonata,2024,Yaş Asfalt,0,Avtomat,Bəli,2.5,194,Benzin
+76330.0,BMW,530e,2022,Qara,32000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+49000.0,Kia,Sorento,2019,Ağ,131000,Avtomat,Xeyr,2.0,184,Dizel
+96900.0,BMW,530e,2022,Qara,55566,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+228000.0,BMW,X7,2023,Qara,300,Avtomat,Xeyr,3.0,340,Dizel
+54230.0,Hyundai,Sonata,2022,Yaş Asfalt,18000,Avtomat,Xeyr,2.0,192,Hibrid
+151130.0,Mercedes,E 220 d,2024,Ağ,0,Avtomat,Bəli,2.0,194,Dizel
+22500.0,Hyundai,Accent,2019,Ağ,138000,Avtomat,Xeyr,1.6,130,Benzin
+24900.0,Kia,Forte,2019,Ağ,159000,Variator,Xeyr,2.0,147,Benzin
+41500.0,Hyundai,Elantra,2024,Boz,0,Avtomat,Bəli,1.6,128,Benzin
+35750.0,Hyundai,Elantra,2021,Ağ,83000,Avtomat,Xeyr,2.0,150,Benzin
+49810.0,Hyundai,Santa Fe,2019,Qara,140000,Avtomat,Xeyr,2.4,188,Benzin
+44800.0,Hyundai,Santa Fe,2019,Yaş Asfalt,164000,Avtomat,Xeyr,2.0,184,Dizel
+45500.0,Kia,Sportage,2022,Mavi,98000,Avtomat,Xeyr,2.0,150,Benzin
+224200.0,BMW,X5,2024,Yaş Asfalt,0,Avtomat,Bəli,3.0,381,Benzin
+72250.0,BMW,530,2021,Boz,44000,Avtomat,Xeyr,2.0,249,Benzin
+76500.0,BMW,530e,2021,Mavi,73000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+34500.0,Hyundai,Tucson,2019,Qara,85000,Avtomat,Xeyr,2.0,150,Benzin
+35000.0,Kia,K5,2022,Tünd qırmızı,67000,Avtomat,Xeyr,1.6,180,Benzin
+55900.0,Kia,Sorento,2020,Qara,100100,Avtomat,Xeyr,2.2,200,Dizel
+32000.0,Hyundai,Tucson,2019,Yaş Asfalt,100000,Avtomat,Xeyr,2.0,150,Benzin
+55930.0,BMW,330,2020,Ağ,84000,Avtomat,Xeyr,2.0,249,Benzin
+40000.0,Hyundai,Elantra,2024,Ağ,7500,Variator,Xeyr,1.5,115,Benzin
+55250.0,BMW,330,2021,Yaş Asfalt,42000,Avtomat,Xeyr,2.0,252,Benzin
+68800.0,Kia,Carnival,2019,Ağ,62000,Avtomat,Xeyr,2.2,202,Dizel
+58500.0,Kia,Sorento,2020,Mavi,101000,Avtomat,Xeyr,2.0,200,Dizel
+37800.0,Hyundai,Elantra,2021,Boz,46000,Avtomat,Xeyr,1.6,139,Hibrid
+25700.0,Hyundai,Elantra,2019,Qara,65000,Avtomat,Xeyr,1.4,128,Benzin
+97750.0,Mercedes,GLE 350 4MATIC,2021,Qara,57000,Avtomat,Xeyr,2.0,258,Benzin
+25500.0,Kia,Forte,2019,Yaş Asfalt,97000,Variator,Xeyr,2.0,147,Benzin
+113900.0,BMW,530e,2024,Ağ,10000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+32000.0,Hyundai,Elantra,2021,Yaş Asfalt,76906,Avtomat,Xeyr,1.6,132,Benzin
+41000.0,Kia,K5,2021,Qara,52000,Avtomat,Xeyr,2.0,150,Benzin
+45050.0,Hyundai,Sonata,2020,Göy,48000,Avtomat,Xeyr,2.5,180,Benzin
+65450.0,BMW,530e,2019,Boz,67100,Avtomat,Xeyr,2.0,197,Plug-in Hibrid
+77350.0,BMW,520,2021,Qara,68000,Avtomat,Xeyr,2.0,190,Dizel
+50830.0,Hyundai,Sonata,2022,Yaş Asfalt,46700,Avtomat,Xeyr,2.0,150,Hibrid
+24500.0,Kia,Forte,2021,Tünd qırmızı,85000,Variator,Xeyr,2.0,147,Benzin
+158100.0,BMW,X7,2021,Qara,38000,Avtomat,Xeyr,3.0,340,Benzin
+30900.0,Hyundai,Tucson,2019,Ağ,76000,Avtomat,Xeyr,2.0,184,Benzin
+22000.0,Hyundai,Accent,2019,Qara,75000,Avtomat,Xeyr,1.4,108,Benzin
+83300.0,Mercedes,E 300 e,2021,Qara,44500,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+73950.0,Mercedes,E 300 de,2020,Qara,23000,Avtomat,Xeyr,2.0,194,Plug-in Hibrid
+46000.0,Hyundai,Tucson,2022,Ağ,28000,Avtomat,Xeyr,2.0,150,Benzin
+104550.0,BMW,X5,2019,Qara,57000,Avtomat,Xeyr,3.0,340,Benzin
+198520.9,BMW,X7,2022,Qara,42300,Avtomat,Xeyr,3.0,340,Benzin
+55250.0,BMW,530,2020,Qara,128748,Avtomat,Xeyr,2.0,249,Benzin
+45700.0,Hyundai,Sonata,2023,Qara,28800,Avtomat,Xeyr,1.6,180,Benzin
+42498.299999999996,Hyundai,Sonata,2020,Göy,45000,Avtomat,Xeyr,1.6,183,Benzin
+43900.0,Kia,Sorento,2019,Yaş Asfalt,112000,Avtomat,Xeyr,2.0,184,Dizel
+26400.0,Kia,Forte,2019,Yaş Asfalt,96729,Variator,Xeyr,2.0,147,Benzin
+63900.0,Hyundai,Sonata,2024,Boz,0,Avtomat,Bəli,2.0,193,Hibrid
+55000.0,Kia,Sorento,2020,Boz,105000,Avtomat,Xeyr,2.2,200,Dizel
+25500.0,Hyundai,Elantra,2020,Qara,58200,Avtomat,Xeyr,2.0,165,Benzin
+68170.0,Kia,Carnival,2024,Qara,13600,Avtomat,Xeyr,1.6,230,Hibrid
+27000.0,Kia,Forte,2019,Qara,86000,Variator,Xeyr,2.0,147,Benzin
+46500.0,Kia,Sorento,2019,Qara,121000,Avtomat,Xeyr,2.0,184,Dizel
+476767.0,Mercedes,G 63 AMG,2023,Ağ,0,Avtomat,Bəli,4.0,585,Benzin
+43000.0,Kia,K5,2020,Yaş Asfalt,21500,Avtomat,Xeyr,2.0,168,Benzin
+37900.0,Hyundai,Sonata,2019,Ağ,85000,Avtomat,Xeyr,2.0,165,Benzin
+37500.0,Kia,K5,2020,Yaş Asfalt,162000,Avtomat,Xeyr,1.6,184,Benzin
+42200.0,Kia,Sportage,2019,Ağ,77000,Avtomat,Xeyr,2.0,184,Dizel
+28900.0,Hyundai,Elantra,2019,Qara,150000,Avtomat,Xeyr,1.6,132,Benzin
+332443.5,Mercedes,G 63 AMG,2019,Qara,21000,Avtomat,Xeyr,4.0,585,Benzin
+37500.0,Hyundai,Sonata,2021,Qara,79000,Avtomat,Xeyr,1.6,183,Benzin
+99450.0,BMW,530e,2022,Qara,10000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+52700.0,Hyundai,Tucson,2024,Ağ,0,Avtomat,Bəli,2.0,157,Benzin
+48800.0,Hyundai,Sonata,2022,Ağ,85000,Avtomat,Xeyr,2.0,150,Benzin
+65450.0,BMW,530,2020,Gümüşü,71600,Avtomat,Xeyr,2.0,260,Benzin
+24500.0,Hyundai,Elantra,2019,Göy,69000,Avtomat,Xeyr,2.0,150,Benzin
+56950.0,BMW,530,2019,Ağ,71000,Avtomat,Xeyr,2.0,249,Benzin
+28500.0,Kia,Forte,2021,Ağ,60181,Variator,Xeyr,2.0,147,Benzin
+96900.0,BMW,530e,2022,Göy,13000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+49240.0,Hyundai,Elantra,2024,Ağ,15000,Variator,Xeyr,1.5,115,Benzin
+32700.0,Hyundai,Tucson,2020,Qara,79000,Avtomat,Xeyr,2.0,150,Benzin
+28500.0,Kia,Forte,2021,Göy,110105,Robot,Xeyr,1.6,201,Benzin
+175100.0,BMW,X7,2020,Qara,14800,Avtomat,Xeyr,4.4,530,Benzin
+26100.0,Kia,Forte,2019,Ağ,156106,Variator,Xeyr,2.0,147,Benzin
+127300.0,BMW,520,2024,Ağ,4400,Avtomat,Xeyr,2.0,228,Benzin
+93500.0,BMW,X5,2019,Boz,60000,Avtomat,Xeyr,3.0,258,Dizel
+36700.0,Hyundai,Sonata,2020,Qızılı,49000,Avtomat,Xeyr,1.6,200,Benzin
+70550.0,BMW,530e,2020,Boz,37000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+158950.0,BMW,X7,2022,Qara,38500,Avtomat,Xeyr,3.0,340,Benzin
+20800.0,Hyundai,Accent,2020,Göy,99779,Avtomat,Xeyr,1.6,140,Benzin
+144330.0,Mercedes,E 300 e,2023,Boz,0,Avtomat,Bəli,2.0,320,Plug-in Hibrid
+26700.0,Hyundai,Elantra,2019,Yaş Asfalt,95756,Avtomat,Xeyr,2.0,145,Benzin
+26950.0,Kia,Forte,2019,Yaş Asfalt,76444,Variator,Xeyr,2.0,147,Benzin
+43777.0,Hyundai,Santa Fe,2020,Boz,73000,Avtomat,Xeyr,2.4,188,Benzin
+55000.0,Hyundai,Santa Fe,2022,Ağ,15000,Avtomat,Xeyr,1.6,190,Hibrid
+59900.0,Hyundai,Tucson,2024,Qara,0,Avtomat,Bəli,2.0,150,Benzin
+37500.0,Hyundai,Sonata,2019,Qara,160400,Avtomat,Xeyr,2.0,165,Benzin
+63300.0,Hyundai,Santa Fe,2021,Qara,68000,Avtomat,Xeyr,2.5,180,Benzin
+27800.0,Hyundai,Elantra,2019,Qara,39000,Avtomat,Xeyr,2.0,150,Benzin
+765943.5,Mercedes,G 63 AMG,2022,Boz,12000,Avtomat,Xeyr,4.5,900,Benzin
+74420.9,Kia,Sorento,2023,Ağ,23000,Avtomat,Xeyr,2.2,200,Dizel
+77860.0,BMW,530,2020,Qara,43000,Avtomat,Xeyr,2.0,249,Plug-in Hibrid
+62050.0,Hyundai,Santa Fe,2022,Yaş Asfalt,800,Variator,Xeyr,1.6,230,Hibrid
+41000.0,Kia,Sorento,2019,Qara,189000,Avtomat,Xeyr,2.0,184,Dizel
+84830.0,Mercedes,E 300 de,2021,Qara,29500,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+76500.0,BMW,530,2023,Qara,69800,Avtomat,Xeyr,2.0,248,Benzin
+46500.0,Hyundai,Santa Fe,2019,Qara,73674,Avtomat,Xeyr,2.0,184,Dizel
+66500.0,BMW,330,2019,Qara,18000,Avtomat,Xeyr,2.0,258,Benzin
+26600.0,Hyundai,Elantra,2020,Ağ,70700,Avtomat,Xeyr,2.0,150,Benzin
+69000.0,Kia,Sorento,2021,Göy,75000,Avtomat,Xeyr,2.5,180,Benzin
+33777.0,Hyundai,Elantra,2022,Boz,12700,Avtomat,Xeyr,2.0,150,Benzin
+48900.0,Hyundai,Tucson,2021,Ağ,26887,Avtomat,Xeyr,2.0,150,Benzin
+62900.0,BMW,330,2021,Narıncı,41000,Avtomat,Xeyr,2.0,258,Benzin
+99450.0,Mercedes,GLE 350 4MATIC,2019,Ağ,69500,Avtomat,Xeyr,2.0,249,Benzin
+31500.0,Hyundai,Elantra,2021,Ağ,117000,Avtomat,Xeyr,2.0,150,Benzin
+44500.0,Kia,Carnival,2019,Ağ,285000,Avtomat,Xeyr,2.2,202,Dizel
+26600.0,Kia,Forte,2020,Göy,49890,Variator,Xeyr,2.0,147,Benzin
+49900.0,Hyundai,Tucson,2024,Ağ,0,Avtomat,Bəli,2.0,154,Benzin
+59000.0,Kia,Sorento,2022,Yaş Asfalt,80000,Avtomat,Xeyr,2.2,200,Dizel
+334900.0,Mercedes,G 63 AMG,2020,Qara,65000,Avtomat,Xeyr,4.0,585,Benzin
+52530.0,BMW,330,2021,Ağ,64000,Avtomat,Xeyr,2.0,258,Benzin
+58800.0,Hyundai,Sonata,2024,Qara,1900,Avtomat,Xeyr,2.0,193,Hibrid
+29000.0,Kia,Forte,2020,Ağ,38000,Variator,Xeyr,2.0,147,Benzin
+42160.0,Kia,K5,2020,Göy,127105,Robot,Xeyr,1.6,180,Benzin
+92684.0,Mercedes,GLE 350 4MATIC,2020,Boz,89200,Avtomat,Xeyr,2.0,245,Benzin
+38000.0,Kia,K5,2022,Göy,22400,Robot,Xeyr,1.6,180,Benzin
+57290.0,BMW,530,2019,Ağ,128000,Avtomat,Xeyr,2.0,249,Benzin
+31500.0,Kia,Forte,2022,Göy,45728,Variator,Xeyr,2.0,147,Benzin
+147730.0,BMW,X5,2024,Boz,48280,Avtomat,Xeyr,3.0,394,Hibrid
+163400.0,BMW,530e,2024,Qara,0,Avtomat,Bəli,2.0,300,Plug-in Hibrid
+39500.0,Kia,Sportage,2020,Ağ,61000,Avtomat,Xeyr,2.0,150,Benzin
+225930.0,BMW,X7,2023,Qara,0,Avtomat,Bəli,3.0,380,Benzin
+59900.0,Hyundai,Tucson,2024,Yaş Asfalt,0,Avtomat,Bəli,2.0,157,Benzin
+27900.0,Hyundai,Elantra,2020,Yaş Asfalt,88000,Avtomat,Xeyr,2.0,150,Benzin
+50000.0,Hyundai,Sonata,2022,Qara,24000,Avtomat,Xeyr,2.0,165,Benzin
+132430.0,Mercedes,GLE 350 4MATIC,2023,Ağ,29400,Avtomat,Xeyr,2.0,255,Benzin
+49800.0,Hyundai,Santa Fe,2019,Ağ,115000,Avtomat,Xeyr,2.0,184,Dizel
+27880.0,Hyundai,Elantra,2019,Boz,117643,Avtomat,Xeyr,2.0,150,Benzin
+28000.0,Kia,Forte,2020,Göy,76000,Variator,Xeyr,2.0,147,Benzin
+346800.0,Mercedes,G 63 AMG,2020,Qara,38000,Avtomat,Xeyr,4.0,585,Benzin
+49240.0,Hyundai,Elantra,2024,Ağ,12000,Variator,Xeyr,1.5,115,Benzin
+76500.0,Mercedes,E 220 d,2020,Qara,79000,Avtomat,Xeyr,2.2,170,Dizel
+31700.0,Hyundai,Elantra,2021,Qara,37000,Avtomat,Xeyr,2.0,150,Benzin
+140720.9,BMW,X7,2020,Göy,98000,Avtomat,Xeyr,3.0,249,Dizel
+102000.0,Mercedes,E 300 e,2022,Qara,15000,Avtomat,Xeyr,2.0,208,Plug-in Hibrid
+136000.0,BMW,X7,2020,Ağ,33000,Avtomat,Xeyr,3.0,340,Benzin
+37000.0,Kia,Sportage,2020,Yaş Asfalt,199000,Variator,Xeyr,1.6,136,Dizel
+28700.0,Hyundai,Elantra,2019,Yaş Asfalt,139852,Avtomat,Xeyr,2.0,150,Benzin
+93500.0,BMW,530e,2023,Qara,72500,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+38000.0,Kia,K5,2021,Yaş Asfalt,47000,Avtomat,Xeyr,1.6,180,Benzin
+42500.0,Kia,K5,2021,Ağ,70572,Avtomat,Xeyr,1.6,180,Benzin
+39000.0,Hyundai,Elantra,2024,Ağ,88,Variator,Bəli,1.5,115,Benzin
+238431.0,Mercedes,GLS 450 4MATIC,2023,Boz,0,Avtomat,Bəli,3.0,381,Benzin
+163198.3,BMW,X5,2022,Qara,7400,Avtomat,Xeyr,3.0,249,Dizel
+84900.0,Hyundai,Grandeur,2024,Qara,0,Avtomat,Bəli,1.6,230,Hibrid
+282030.0,Mercedes,GLS 450 4MATIC,2024,Qara,0,Avtomat,Bəli,3.0,381,Benzin
+24900.0,Hyundai,Elantra,2020,Göy,128000,Avtomat,Xeyr,2.0,150,Benzin
+31500.0,Hyundai,Elantra,2021,Göy,79000,Avtomat,Xeyr,2.0,150,Benzin
+28500.0,Hyundai,Tucson,2019,Yaş Asfalt,118055,Avtomat,Xeyr,2.0,165,Benzin
+42900.0,Hyundai,Elantra,2024,Qara,0,Variator,Bəli,1.5,201,Benzin
+27700.0,Kia,Forte,2021,Boz,64500,Variator,Xeyr,2.0,147,Benzin
+40500.0,Hyundai,Sonata,2019,Göy,103000,Avtomat,Xeyr,1.6,183,Benzin
+52700.0,Hyundai,Santa Fe,2021,Yaş Asfalt,55000,Avtomat,Xeyr,1.6,230,Hibrid
+26900.0,Kia,Forte,2021,Boz,183586,Variator,Xeyr,2.0,147,Benzin
+117300.0,BMW,X7,2020,Göy,99600,Avtomat,Xeyr,3.0,340,Benzin
+83300.0,BMW,X5,2019,Ağ,65000,Avtomat,Xeyr,3.0,340,Benzin
+39500.0,Kia,K5,2020,Tünd qırmızı,85200,Avtomat,Xeyr,1.6,180,Benzin
+70550.0,Hyundai,Grandeur,2023,Qara,5500,Avtomat,Xeyr,1.6,180,Hibrid
+46750.0,Hyundai,Sonata,2021,Qara,106000,Avtomat,Xeyr,2.0,165,Benzin
+28900.0,Kia,Forte,2021,Ağ,75639,Variator,Xeyr,2.0,147,Benzin
+224740.0,BMW,X5,2024,Qara,0,Avtomat,Bəli,3.0,380,Benzin
+219300.0,BMW,X7,2023,Qara,9500,Avtomat,Xeyr,3.0,340,Benzin
+58500.0,Kia,Sorento,2020,Yaş Asfalt,75000,Avtomat,Xeyr,2.2,167,Dizel
+185300.0,Mercedes,GLS 450 4MATIC,2021,Qara,28000,Avtomat,Xeyr,3.0,367,Benzin
+38700.0,Hyundai,Tucson,2020,Ağ,111372,Avtomat,Xeyr,2.0,165,Benzin
+66700.0,Kia,Carnival,2021,Qara,98000,Avtomat,Xeyr,2.2,202,Dizel
+93500.0,Mercedes,E 300 de,2020,Yaş Asfalt,65000,Avtomat,Xeyr,2.0,311,Plug-in Hibrid
+59330.0,Kia,Sorento,2023,Göy,13655,Avtomat,Xeyr,1.6,230,Hibrid
+54400.0,Hyundai,Sonata,2022,Yaş Asfalt,30000,Avtomat,Xeyr,2.0,150,Benzin
+81600.0,BMW,530e,2022,Boz,63000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+120700.0,BMW,X5,2022,Göy,35000,Avtomat,Xeyr,2.0,218,Dizel
+96050.0,Mercedes,E 300 e,2023,Qara,16000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+201450.0,BMW,X7,2023,Qara,30000,Avtomat,Xeyr,3.0,340,Benzin
+93500.0,BMW,530e,2022,Qara,23500,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+42900.0,Hyundai,Elantra,2024,Ağ,0,Variator,Bəli,1.5,201,Benzin
+37900.0,Hyundai,Elantra,2024,Boz,0,Avtomat,Bəli,1.6,127,Benzin
+33500.0,Hyundai,Tucson,2019,Ağ,77110,Avtomat,Xeyr,2.0,161,Benzin
+39900.0,Kia,Sorento,2019,Qara,171000,Avtomat,Xeyr,2.0,184,Dizel
+37400.0,Hyundai,Sonata,2020,Qırmızı,55000,Avtomat,Xeyr,1.6,183,Benzin
+56500.0,Kia,Sorento,2022,Gümüşü,157000,Avtomat,Xeyr,1.6,230,Hibrid
+57900.0,Kia,Sorento,2020,Ağ,35200,Avtomat,Xeyr,2.2,200,Dizel
+28700.0,Hyundai,Elantra,2020,Göy,90000,Avtomat,Xeyr,2.0,150,Benzin
+25950.0,Hyundai,Elantra,2020,Boz,159486,Avtomat,Xeyr,2.0,150,Benzin
+98260.0,BMW,X5,2021,Yaş Asfalt,38500,Avtomat,Xeyr,3.0,340,Benzin
+79050.0,Mercedes,E 220 d,2019,Qara,41000,Avtomat,Xeyr,2.0,194,Dizel
+156020.9,Mercedes,E 300 e,2023,Qara,0,Avtomat,Bəli,2.0,320,Plug-in Hibrid
+25500.0,Kia,Forte,2019,Qırmızı,58281,Variator,Xeyr,2.0,147,Benzin
+246500.0,BMW,X7,2023,Qara,5549,Avtomat,Xeyr,3.0,340,Benzin
+234600.0,BMW,X7,2023,Qara,12000,Avtomat,Xeyr,3.0,340,Benzin
+25800.0,Kia,Forte,2019,Yaş Asfalt,95000,Variator,Xeyr,2.0,147,Benzin
+340000.0,Mercedes,G 63 AMG,2020,Qara,31500,Avtomat,Xeyr,4.0,585,Benzin
+34000.0,Hyundai,Elantra,2020,Göy,37000,Avtomat,Xeyr,2.0,158,Benzin
+42900.0,Kia,K5,2022,Mavi,27000,Avtomat,Xeyr,1.6,218,Benzin
+178500.0,BMW,X7,2023,Qara,22000,Avtomat,Xeyr,3.0,340,Benzin
+38500.0,Hyundai,Elantra,2022,Qara,56000,Avtomat,Xeyr,2.0,180,Benzin
+23900.0,Kia,Cerato,2019,Gümüşü,44620,Avtomat,Xeyr,2.0,150,Benzin
+133450.0,Mercedes,GLE 350 4MATIC,2022,Qara,26000,Avtomat,Xeyr,2.0,258,Benzin
+25500.0,Hyundai,Elantra,2020,Boz,80000,Avtomat,Xeyr,2.0,150,Benzin
+103700.0,BMW,X5,2019,Qara,80000,Avtomat,Xeyr,3.0,340,Benzin
+28500.0,Hyundai,Elantra,2019,Göy,37000,Avtomat,Xeyr,2.0,150,Benzin
+89000.0,BMW,X5,2020,Qara,49000,Avtomat,Xeyr,3.0,340,Benzin
+54400.0,Kia,K5,2023,Göy,250,Avtomat,Xeyr,1.6,182,Benzin
+51500.0,Hyundai,Sonata,2022,Yaş Asfalt,59200,Avtomat,Xeyr,2.0,197,Hibrid
+135660.0,BMW,X7,2020,Ağ,32400,Avtomat,Xeyr,3.0,340,Benzin
+41000.0,Hyundai,Sonata,2020,Qara,77000,Avtomat,Xeyr,2.0,165,Benzin
+97750.0,Mercedes,E 300 e,2022,Qara,26000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+62050.0,Kia,Carnival,2022,Yaş Asfalt,72000,Avtomat,Xeyr,2.2,202,Dizel
+93500.0,BMW,530e,2022,Göy,36000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+105400.0,BMW,X5,2022,Qara,26000,Avtomat,Xeyr,3.0,340,Benzin
+43500.0,Kia,K5,2021,Ağ,72300,Avtomat,Xeyr,2.0,150,Benzin
+51500.0,Kia,Sorento,2019,Yaş Asfalt,143500,Avtomat,Xeyr,2.2,202,Dizel
+250800.0,BMW,X7,2024,Qara,0,Avtomat,Bəli,3.0,352,Dizel
+52000.0,Hyundai,Tucson,2021,Qara,44000,Avtomat,Xeyr,1.6,250,Hibrid
+99450.0,Mercedes,E 300 e,2022,Qara,5500,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+68000.0,Mercedes,E 220 d,2019,Boz,94000,Avtomat,Xeyr,2.2,194,Dizel
+373620.89999999997,Mercedes,G 63 AMG,2020,Qara,12700,Avtomat,Xeyr,4.0,585,Benzin
+214030.0,Mercedes,GLS 450 4MATIC,2023,Qara,0,Avtomat,Bəli,3.0,367,Benzin
+26500.0,Hyundai,Elantra,2020,Göy,64000,Avtomat,Xeyr,2.0,157,Benzin
+132600.0,BMW,X7,2021,Boz,16000,Avtomat,Xeyr,3.0,340,Benzin
+56900.0,Hyundai,Sonata,2024,Qara,0,Avtomat,Bəli,2.0,190,Hibrid
+26200.0,Hyundai,Elantra,2019,Yaş Asfalt,87000,Avtomat,Xeyr,2.0,150,Benzin
+59699.0,Kia,Sorento,2020,Ağ,59000,Avtomat,Xeyr,2.2,197,Dizel
+46000.0,Hyundai,Sonata,2021,Qara,19500,Avtomat,Xeyr,2.0,187,Hibrid
+36500.0,Hyundai,Sonata,2021,Boz,145000,Avtomat,Xeyr,2.0,198,Hibrid
+34500.0,Hyundai,Sonata,2019,Göy,83686,Avtomat,Xeyr,2.0,274,Benzin
+25500.0,Hyundai,Elantra,2019,Qara,70500,Avtomat,Xeyr,2.0,150,Benzin
+243114.5,Mercedes,GLS 450 4MATIC,2023,Boz,0,Avtomat,Bəli,3.0,381,Benzin
+57630.0,Hyundai,Grandeur,2023,Qara,43000,Avtomat,Xeyr,2.5,198,Benzin
+58140.0,BMW,330,2022,Qara,59000,Avtomat,Xeyr,2.0,258,Plug-in Hibrid
+89900.0,Kia,Sorento,2024,Qəhvəyi,0,Avtomat,Bəli,2.2,194,Dizel
+69700.0,Kia,Carnival,2023,Qara,70000,Avtomat,Xeyr,2.2,202,Dizel
+57500.0,Hyundai,Santa Fe,2021,Ağ,16000,Avtomat,Xeyr,1.6,227,Plug-in Hibrid
+39900.0,Hyundai,Sonata,2021,Ağ,22000,Avtomat,Xeyr,1.6,183,Benzin
+119000.0,BMW,X5,2022,Boz,22000,Avtomat,Xeyr,3.0,340,Benzin
+44710.0,BMW,330,2020,Qara,61000,Avtomat,Xeyr,2.0,258,Benzin
+124098.3,BMW,X5,2019,Qara,46671,Avtomat,Xeyr,3.0,340,Benzin
+59900.0,Hyundai,Tucson,2024,Ağ,0,Avtomat,Bəli,2.0,154,Benzin
+30600.0,Kia,Forte,2020,Qara,67000,Variator,Xeyr,2.0,147,Benzin
+87550.0,Mercedes,E 300 e,2022,Yaş Asfalt,46000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+52500.0,Kia,Sorento,2020,Ağ,240470,Avtomat,Xeyr,2.2,200,Dizel
+34900.0,Kia,Sportage,2020,Qara,132714,Avtomat,Xeyr,2.0,184,Dizel
+48300.0,Kia,Sorento,2019,Qara,137000,Avtomat,Xeyr,2.0,184,Dizel
+79900.0,Mercedes,E 300 de,2020,Gümüşü,108000,Avtomat,Xeyr,2.0,311,Plug-in Hibrid
+119000.0,BMW,X5,2020,Ağ,72000,Avtomat,Xeyr,3.0,340,Benzin
+34500.0,Kia,Sportage,2019,Ağ,210000,Avtomat,Xeyr,2.0,184,Dizel
+26500.0,Kia,Forte,2020,Ağ,56327,Variator,Xeyr,2.0,147,Benzin
+29700.0,Kia,Forte,2020,Göy,56206,Variator,Xeyr,2.0,147,Benzin
+213350.0,Mercedes,GLS 450 4MATIC,2022,Qara,0,Avtomat,Bəli,3.0,367,Benzin
+44000.0,Kia,Sportage,2021,Qara,36300,Avtomat,Xeyr,2.0,184,Benzin
+48450.0,Hyundai,Grandeur,2020,Yaş Asfalt,91500,Avtomat,Xeyr,2.4,210,Hibrid
+30000.0,Hyundai,Sonata,2019,Ağ,96767,Avtomat,Xeyr,2.0,275,Benzin
+27700.0,Hyundai,Elantra,2019,Tünd qırmızı,79771,Avtomat,Xeyr,1.6,200,Benzin
+95710.0,BMW,530e,2023,Qara,28000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+28000.0,Kia,Forte,2020,Gümüşü,77000,Variator,Xeyr,2.0,147,Benzin
+40630.0,Hyundai,Sonata,2020,Yaş Asfalt,42000,Avtomat,Xeyr,1.6,183,Benzin
+141100.0,Mercedes,GLS 450 4MATIC,2019,Qara,98000,Avtomat,Xeyr,3.0,367,Benzin
+36900.0,Hyundai,Tucson,2019,Yaş Asfalt,180000,Avtomat,Xeyr,2.0,150,Benzin
+133450.0,Mercedes,GLS 450 4MATIC,2019,Qara,87000,Avtomat,Xeyr,3.0,367,Benzin
+187000.0,BMW,X7,2023,Gümüşü,20000,Avtomat,Xeyr,3.0,340,Benzin
+47500.0,Kia,Sorento,2019,Ağ,110000,Avtomat,Xeyr,2.0,184,Dizel
+78030.0,BMW,530e,2021,Qara,48555,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+116450.0,BMW,X5,2022,Qızılı,26000,Avtomat,Xeyr,2.0,218,Dizel
+101150.0,BMW,530e,2023,Qara,4000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+40800.0,Hyundai,Sonata,2020,Ağ,40234,Avtomat,Xeyr,1.6,188,Benzin
+41800.0,Hyundai,Sonata,2020,Yaş Asfalt,69000,Avtomat,Xeyr,1.6,183,Benzin
+31500.0,Kia,K5,2021,Qara,72000,Avtomat,Xeyr,1.6,183,Benzin
+25800.0,Kia,Forte,2019,Göy,93200,Variator,Xeyr,2.0,147,Benzin
+41650.0,Hyundai,Sonata,2020,Ağ,54000,Avtomat,Xeyr,1.6,183,Benzin
+364650.0,Mercedes,G 63 AMG,2021,Qara,36000,Avtomat,Xeyr,4.0,585,Benzin
+25800.0,Kia,Forte,2019,Göy,43000,Variator,Xeyr,2.0,147,Benzin
+30500.0,Hyundai,Elantra,2021,Yaş Asfalt,85000,Avtomat,Xeyr,1.6,132,Benzin
+75650.0,Kia,Carnival,2021,Mavi,7693,Avtomat,Xeyr,2.2,220,Dizel
+59500.0,Kia,Sorento,2021,Boz,48900,Avtomat,Xeyr,1.6,230,Hibrid
+46750.0,Kia,Carnival,2019,Ağ,166000,Avtomat,Xeyr,2.2,202,Dizel
+147520.9,BMW,X7,2021,Mavi,57000,Avtomat,Xeyr,3.0,340,Benzin
+41500.0,Kia,K5,2020,Boz,59000,Avtomat,Xeyr,1.6,180,Benzin
+26500.0,Hyundai,Elantra,2019,Ağ,121000,Avtomat,Xeyr,1.6,132,Benzin
+34600.0,Kia,Sportage,2019,Ağ,139000,Avtomat,Xeyr,2.0,185,Dizel
+53550.0,BMW,530,2019,Boz,41000,Avtomat,Xeyr,2.0,249,Benzin
+106250.0,BMW,530e,2023,Göy,1700,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+45050.0,Hyundai,Sonata,2022,Qara,33000,Avtomat,Xeyr,2.0,197,Benzin
+133450.0,Mercedes,GLS 450 4MATIC,2019,Qara,100000,Avtomat,Xeyr,3.0,367,Benzin
+28600.0,Kia,Forte,2021,Yaş Asfalt,79909,Variator,Xeyr,2.0,147,Benzin
+40000.0,Kia,K5,2022,Qara,40500,Avtomat,Xeyr,1.6,189,Benzin
+54400.0,BMW,530e,2019,Qara,117500,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+27000.0,Hyundai,Accent,2021,Yaş Asfalt,61100,Avtomat,Xeyr,1.6,140,Benzin
+53550.0,BMW,530,2019,Qara,110000,Avtomat,Xeyr,2.0,249,Benzin
+135150.0,BMW,X5,2022,Göy,19000,Avtomat,Xeyr,3.0,394,Plug-in Hibrid
+54500.0,Hyundai,Tucson,2024,Ağ,0,Avtomat,Bəli,1.6,230,Hibrid
+51000.0,Mercedes,E 220 d,2019,Boz,181000,Avtomat,Xeyr,2.0,194,Dizel
+53500.0,Kia,Sorento,2020,Göy,104923,Robot,Xeyr,2.2,197,Dizel
+32700.0,Hyundai,Tucson,2019,Boz,86000,Avtomat,Xeyr,2.0,150,Benzin
+27400.0,Kia,Forte,2019,Göy,93000,Variator,Xeyr,2.0,147,Benzin
+57630.0,BMW,530e,2019,Göy,85000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+45050.0,Hyundai,Sonata,2020,Göy,35000,Avtomat,Xeyr,2.0,195,Hibrid
+52900.0,BMW,520,2019,Ağ,122000,Avtomat,Xeyr,2.0,190,Dizel
+42330.0,Hyundai,Sonata,2021,Yaş Asfalt,47500,Avtomat,Xeyr,2.0,165,Benzin
+28900.0,Kia,Forte,2020,Ağ,25500,Variator,Xeyr,2.0,170,Benzin
+76500.0,Hyundai,Grandeur,2023,Boz,24000,Avtomat,Xeyr,1.6,230,Hibrid
+59800.0,Kia,Sportage,2022,Ağ,8200,Avtomat,Xeyr,2.0,185,Dizel
+50000.0,Hyundai,Tucson,2023,Yaş Asfalt,49000,Avtomat,Xeyr,2.0,161,Benzin
+28900.0,Hyundai,Elantra,2019,Qara,90000,Avtomat,Xeyr,1.6,204,Benzin
+48000.0,Hyundai,Tucson,2022,Ağ,14000,Avtomat,Xeyr,1.6,230,Hibrid
+66300.0,Mercedes,E 220 d,2019,Qara,53000,Avtomat,Xeyr,2.0,194,Dizel
+256700.0,BMW,X7,2024,Qara,0,Avtomat,Bəli,3.0,381,Benzin
+24900.0,Hyundai,Elantra,2020,Qara,93000,Avtomat,Xeyr,2.0,150,Benzin
+64600.0,BMW,520,2019,Qara,46000,Avtomat,Xeyr,2.0,184,Benzin
+85000.0,Hyundai,Santa Fe,2024,Ağ,0,Avtomat,Bəli,1.6,300,Hibrid
+42800.0,Hyundai,Sonata,2021,Qara,44000,Avtomat,Xeyr,1.6,183,Benzin
+31900.0,Hyundai,Elantra,2021,Qara,35000,Avtomat,Xeyr,2.0,158,Benzin
+50133.0,Kia,Sportage,2024,Açıq yaşıl,0,Avtomat,Bəli,2.0,150,Hibrid
+25500.0,Hyundai,Elantra,2019,Tünd qırmızı,73500,Avtomat,Xeyr,2.0,150,Benzin
+40000.0,Kia,K5,2022,Qara,30000,Avtomat,Xeyr,1.6,180,Benzin
+38000.0,Hyundai,Sonata,2021,Boz,53000,Avtomat,Xeyr,2.5,180,Benzin
+69700.0,Kia,Sorento,2021,Boz,21000,Avtomat,Xeyr,2.5,180,Benzin
+127330.0,BMW,X7,2021,Qara,36250,Avtomat,Xeyr,3.0,340,Benzin
+89250.0,Mercedes,E 300 de,2021,Göy,55000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+30226.0,Hyundai,Elantra,2024,Ağ,0,Variator,Bəli,1.5,115,Benzin
+27000.0,Kia,Forte,2020,Yaş Asfalt,67000,Robot,Xeyr,1.6,201,Benzin
+101830.0,BMW,X5,2019,Qara,50000,Avtomat,Xeyr,3.0,340,Benzin
+44000.0,Kia,Sportage,2020,Ağ,25000,Avtomat,Xeyr,2.0,150,Benzin
+60010.0,Hyundai,Sonata,2024,Yaş Asfalt,0,Avtomat,Bəli,2.5,180,Benzin
+41500.0,Hyundai,Sonata,2020,Qızılı,165000,Avtomat,Xeyr,1.6,220,Benzin
+47000.0,Kia,K5,2021,Göy,114000,Avtomat,Xeyr,2.0,156,Hibrid
+47260.0,Hyundai,Sonata,2022,Qara,13700,Avtomat,Xeyr,2.0,192,Hibrid
+48500.0,Hyundai,Tucson,2022,Ağ,14000,Robot,Xeyr,1.6,177,Hibrid
+121550.0,BMW,X7,2019,Qara,94000,Avtomat,Xeyr,3.0,340,Benzin
+31100.0,Hyundai,Elantra,2024,Ağ,0,Avtomat,Bəli,1.5,115,Benzin
+50150.0,Hyundai,Sonata,2022,Yaş Asfalt,55000,Avtomat,Xeyr,2.0,150,Benzin
+38000.0,Kia,K5,2021,Qara,78000,Avtomat,Xeyr,1.6,180,Benzin
+39500.0,Kia,K5,2021,Gümüşü,87000,Avtomat,Xeyr,1.6,183,Benzin
+26800.0,Hyundai,Elantra,2019,Göy,75700,Avtomat,Xeyr,2.0,150,Benzin
+49000.0,Hyundai,Santa Fe,2020,Ağ,46350,Avtomat,Xeyr,2.0,235,Benzin
+149600.0,BMW,X5,2022,Qara,12500,Avtomat,Xeyr,3.0,340,Benzin
+23800.0,Hyundai,Elantra,2020,Gümüşü,112976,Avtomat,Xeyr,2.0,150,Benzin
+68000.0,Kia,Carnival,2022,Yaş Asfalt,74000,Avtomat,Xeyr,2.2,202,Dizel
+39500.0,Hyundai,Elantra,2023,Qara,7000,Avtomat,Xeyr,2.0,150,Benzin
+31000.0,Hyundai,Tucson,2019,Göy,135185,Avtomat,Xeyr,2.0,150,Benzin
+57500.0,Hyundai,Tucson,2024,Qara,1700,Avtomat,Xeyr,2.0,150,Benzin
+78200.0,Hyundai,Grandeur,2024,Yaş Asfalt,400,Avtomat,Xeyr,1.6,230,Hibrid
+61200.0,Mercedes,E 220 d,2019,Qara,116000,Avtomat,Xeyr,2.0,292,Hibrid
+42500.0,Kia,K5,2021,Boz,51000,Avtomat,Xeyr,1.6,180,Benzin
+37800.0,Hyundai,Elantra,2021,Ağ,26743,Avtomat,Xeyr,2.0,150,Benzin
+145350.0,Mercedes,GLE 350 4MATIC,2021,Boz,38000,Avtomat,Xeyr,3.0,272,Dizel
+101830.0,Mercedes,E 220 d,2021,Qara,24000,Avtomat,Xeyr,2.2,170,Dizel
+235450.0,BMW,X7,2023,Qara,7800,Avtomat,Xeyr,3.0,381,Benzin
+66130.0,BMW,530,2020,Qara,41000,Avtomat,Xeyr,2.0,249,Benzin
+127500.0,BMW,X7,2022,Qara,47273,Avtomat,Xeyr,3.0,381,Benzin
+65450.0,BMW,330,2021,Qara,26000,Avtomat,Xeyr,2.0,280,Benzin
+26800.0,Hyundai,Elantra,2019,Gümüşü,57000,Avtomat,Xeyr,2.0,150,Benzin
+44900.0,Kia,K5,2021,Boz,88000,Avtomat,Xeyr,1.6,180,Benzin
+320450.0,Mercedes,G 63 AMG,2019,Qara,70000,Avtomat,Xeyr,4.0,585,Benzin
+26900.0,Hyundai,Accent,2020,Ağ,52000,Avtomat,Xeyr,1.6,140,Benzin
+24700.0,Hyundai,Elantra,2020,Boz,80000,Avtomat,Xeyr,2.0,150,Benzin
+149600.0,Mercedes,GLS 450 4MATIC,2021,Qara,45000,Avtomat,Xeyr,3.0,367,Benzin
+187150.0,BMW,X5,2024,Qara,0,Avtomat,Bəli,3.0,381,Benzin
+34000.0,Kia,Cerato,2023,Boz,42000,Avtomat,Xeyr,1.6,130,Benzin
+28300.0,Hyundai,Elantra,2019,Ağ,102000,Avtomat,Xeyr,2.0,150,Benzin
+224403.3,Mercedes,GLS 450 4MATIC,2023,Qara,0,Avtomat,Bəli,3.0,367,Benzin
+37060.0,Hyundai,Sonata,2020,Göy,38000,Avtomat,Xeyr,1.6,183,Benzin
+28500.0,Kia,Forte,2021,Ağ,57000,Variator,Xeyr,2.0,147,Benzin
+41820.0,Hyundai,Sonata,2020,Yaş Asfalt,64000,Avtomat,Xeyr,2.0,192,Hibrid
+57700.0,Kia,Sorento,2020,Yaş Asfalt,174000,Avtomat,Xeyr,2.2,207,Dizel
+49900.0,Hyundai,Sonata,2022,Qara,22467,Avtomat,Xeyr,2.0,197,Benzin
+25900.0,Hyundai,Elantra,2019,Yaş Asfalt,114000,Avtomat,Xeyr,2.0,170,Benzin
+87890.0,BMW,530e,2022,Göy,32000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+37000.0,Kia,Sorento,2019,Qara,135000,Avtomat,Xeyr,2.4,188,Benzin
+47940.0,Hyundai,Tucson,2024,Ağ,0,Avtomat,Bəli,2.0,150,Benzin
+25900.0,Hyundai,Accent,2021,Ağ,80000,Avtomat,Xeyr,1.6,140,Benzin
+25800.0,Kia,Forte,2020,Göy,70000,Variator,Xeyr,2.0,147,Benzin
+40800.0,Kia,K5,2020,Yaş Asfalt,101000,Avtomat,Xeyr,2.0,150,Benzin
+36500.0,Kia,Sportage,2020,Gümüşü,127000,Avtomat,Xeyr,2.0,165,Benzin
+84830.0,Kia,Carnival,2023,Boz,28000,Avtomat,Xeyr,2.2,202,Dizel
+58900.0,Kia,Sorento,2021,Ağ,55000,Avtomat,Xeyr,1.6,230,Hibrid
+96730.0,Mercedes,E 220 d,2021,Boz,39800,Avtomat,Xeyr,2.2,170,Dizel
+25000.0,Kia,Forte,2019,Göy,135000,Variator,Xeyr,2.0,147,Benzin
+42500.0,Kia,K5,2023,Qara,44444,Avtomat,Xeyr,1.6,180,Benzin
+86530.0,BMW,530e,2021,Göy,33000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+78030.0,Mercedes,E 220 d,2020,Qara,99900,Avtomat,Xeyr,2.0,194,Dizel
+42500.0,Hyundai,Santa Fe,2019,Ağ,32000,Avtomat,Xeyr,2.0,265,Benzin
+46700.0,Kia,Sorento,2019,Yaş Asfalt,122000,Avtomat,Xeyr,2.0,184,Dizel
+48800.0,Hyundai,Sonata,2022,Qara,30000,Avtomat,Xeyr,2.0,150,Benzin
+23700.0,Hyundai,Accent,2019,Ağ,64000,Avtomat,Xeyr,1.6,125,Benzin
+96900.0,BMW,X5,2019,Yaş Asfalt,72000,Avtomat,Xeyr,3.0,340,Benzin
+49900.0,Kia,Sorento,2021,Qara,65000,Avtomat,Xeyr,1.6,230,Hibrid
+62050.0,Hyundai,Santa Fe,2021,Ağ,9500,Avtomat,Xeyr,1.6,230,Hibrid
+101830.0,BMW,X5,2022,Boz,41000,Avtomat,Xeyr,3.0,340,Benzin
+37900.0,Hyundai,Elantra,2024,Yaş Asfalt,0,Avtomat,Bəli,1.6,128,Benzin
+32000.0,Hyundai,Elantra,2022,Boz,70000,Avtomat,Xeyr,1.6,139,Benzin
+30400.0,Hyundai,Elantra,2021,Gümüşü,90000,Avtomat,Xeyr,2.0,150,Benzin
+88020.9,BMW,530e,2021,Ağ,35900,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+53550.0,BMW,330,2021,Yaş Asfalt,35000,Avtomat,Xeyr,2.0,258,Benzin
+41500.0,Hyundai,Tucson,2022,Gümüşü,44000,Avtomat,Xeyr,1.6,230,Hibrid
+33300.0,Kia,K5,2021,Bej,78000,Avtomat,Xeyr,1.6,183,Benzin
+39900.0,Hyundai,Sonata,2020,Yaş Asfalt,82000,Avtomat,Xeyr,2.0,150,Benzin
+57500.0,Kia,Sorento,2020,Qara,100000,Avtomat,Xeyr,2.2,200,Dizel
+64600.0,Kia,Carnival,2021,Qara,124000,Avtomat,Xeyr,2.2,202,Dizel
+30500.0,Hyundai,Elantra,2021,Boz,16000,Avtomat,Xeyr,2.0,150,Benzin
+122398.3,BMW,520,2024,Boz,0,Avtomat,Bəli,2.0,300,Plug-in Hibrid
+26800.0,Kia,Forte,2020,Yaş Asfalt,170590,Variator,Xeyr,2.0,147,Benzin
+46500.0,Kia,Carnival,2019,Göy,172700,Avtomat,Xeyr,2.2,202,Dizel
+55250.0,BMW,530,2019,Göy,51000,Avtomat,Xeyr,2.0,249,Benzin
+61200.0,Mercedes,E 300 de,2019,Qara,114000,Avtomat,Xeyr,2.0,306,Plug-in Hibrid
+55250.0,Hyundai,Santa Fe,2021,Yaş Asfalt,51000,Avtomat,Xeyr,1.6,238,Hibrid
+85000.0,BMW,530e,2021,Boz,55000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+24500.0,Hyundai,Elantra,2019,Yaş Asfalt,86000,Avtomat,Xeyr,2.0,150,Benzin
+63900.0,Hyundai,Sonata,2024,Qara,0,Avtomat,Bəli,2.0,194,Hibrid
+26500.0,Hyundai,Elantra,2019,Ağ,126000,Avtomat,Xeyr,1.6,132,Benzin
+61200.0,Kia,Carnival,2022,Ağ,130000,Avtomat,Xeyr,2.2,202,Dizel
+42900.0,Kia,Sportage,2019,Ağ,76700,Avtomat,Xeyr,2.0,185,Dizel
+37800.0,Kia,Sorento,2019,Ağ,265000,Avtomat,Xeyr,2.0,184,Dizel
+25900.0,Hyundai,Elantra,2019,Qara,64989,Avtomat,Xeyr,2.0,150,Benzin
+59500.0,BMW,530,2019,Boz,73700,Avtomat,Xeyr,2.0,249,Benzin
+28200.0,Hyundai,Elantra,2020,Ağ,71000,Avtomat,Xeyr,2.0,150,Benzin
+41300.0,Hyundai,Sonata,2020,Qara,79850,Avtomat,Xeyr,1.6,183,Benzin
+39270.0,Hyundai,Sonata,2024,Qara,0,Avtomat,Bəli,1.5,170,Benzin
+41650.0,Hyundai,Sonata,2019,Göy,52142,Avtomat,Xeyr,1.6,183,Benzin
+71230.0,Kia,Sorento,2023,Boz,0,Avtomat,Bəli,1.6,230,Hibrid
+23777.0,Hyundai,Accent,2020,Qara,66000,Avtomat,Xeyr,1.6,123,Benzin
+25000.0,Hyundai,Elantra,2020,Yaş Asfalt,53108,Avtomat,Xeyr,2.0,150,Benzin
+43500.0,Hyundai,Tucson,2021,Qara,24000,Avtomat,Xeyr,2.0,150,Benzin
+58900.0,Kia,Sorento,2020,Qara,117000,Robot,Xeyr,2.2,202,Dizel
+47777.0,Hyundai,Santa Fe,2019,Yaş Asfalt,160000,Avtomat,Xeyr,2.0,186,Dizel
+151300.0,BMW,X5,2023,Yaş Asfalt,28036,Avtomat,Xeyr,3.0,381,Benzin
+75650.0,BMW,530e,2020,Yaş Asfalt,72000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+88400.0,BMW,X5,2019,Göy,146450,Avtomat,Xeyr,3.0,340,Benzin
+36900.0,Hyundai,Sonata,2021,Qara,75000,Avtomat,Xeyr,2.0,150,Hibrid
+63900.0,BMW,330,2020,Ağ,47000,Avtomat,Xeyr,2.0,258,Benzin
+76330.0,Kia,Carnival,2023,Göy,12000,Avtomat,Xeyr,2.2,202,Dizel
+24900.0,Hyundai,Accent,2021,Ağ,105035,Avtomat,Xeyr,1.6,140,Benzin
+609054.5,Mercedes,G 63 AMG,2024,Qara,0,Avtomat,Bəli,4.0,585,Benzin
+56700.0,Hyundai,Santa Fe,2020,Ağ,105000,Avtomat,Xeyr,2.2,200,Dizel
+27800.0,Hyundai,Elantra,2019,Qara,16800,Avtomat,Xeyr,2.0,150,Benzin
+79900.0,Kia,Carnival,2021,Qara,112000,Avtomat,Xeyr,2.2,202,Dizel
+25500.0,Hyundai,Elantra,2020,Qızılı,114263,Avtomat,Xeyr,2.0,150,Benzin
+34000.0,Hyundai,Sonata,2020,Qızılı,35000,Avtomat,Xeyr,1.6,183,Benzin
+56100.0,BMW,530,2019,Boz,55000,Avtomat,Xeyr,2.0,249,Benzin
+122400.0,BMW,X5,2022,Qara,40000,Avtomat,Xeyr,2.0,218,Dizel
+52700.0,Kia,Sorento,2019,Ağ,86620,Avtomat,Xeyr,2.0,184,Dizel
+46000.0,Kia,Sorento,2019,Ağ,184000,Avtomat,Xeyr,2.0,184,Dizel
+26000.0,Hyundai,Elantra,2019,Yaş Asfalt,77395,Avtomat,Xeyr,2.0,150,Benzin
+23800.0,Hyundai,Accent,2020,Gümüşü,64000,Avtomat,Xeyr,1.6,140,Benzin
+42500.0,Hyundai,Santa Fe,2020,Qəhvəyi,22000,Avtomat,Xeyr,2.0,235,Benzin
+32900.0,Kia,K5,2019,Qara,60000,Avtomat,Xeyr,2.0,168,Benzin
+45000.0,Hyundai,Tucson,2021,Qara,55000,Avtomat,Xeyr,2.0,150,Benzin
+31000.0,Kia,Forte,2020,Qara,105000,Variator,Xeyr,2.0,147,Benzin
+416500.0,Mercedes,G 63 AMG,2023,Boz,28000,Avtomat,Xeyr,4.0,585,Benzin
+30222.0,Kia,Sportage,2019,Ağ,108500,Robot,Xeyr,1.6,136,Dizel
+213350.0,BMW,X7,2023,Qara,35000,Avtomat,Xeyr,3.0,400,Dizel
+30500.0,Kia,Forte,2019,Göy,38450,Avtomat,Xeyr,1.6,204,Benzin
+26500.0,Kia,Forte,2021,Yaş Asfalt,102998,Variator,Xeyr,2.0,147,Benzin
+46900.0,Hyundai,Santa Fe,2019,Qara,131500,Avtomat,Xeyr,2.4,188,Benzin
+60800.0,Kia,K5,2024,Qara,0,Avtomat,Bəli,2.0,157,Hibrid
+55000.0,Kia,Sorento,2020,Boz,148000,Avtomat,Xeyr,2.2,200,Dizel
+99450.0,Mercedes,GLE 350 4MATIC,2021,Boz,35000,Avtomat,Xeyr,2.0,258,Benzin
+62900.0,Hyundai,Grandeur,2023,Yaş Asfalt,8659,Avtomat,Xeyr,1.6,180,Hibrid
+94443.5,Mercedes,E 300 de,2022,Boz,57000,Avtomat,Xeyr,2.0,311,Plug-in Hibrid
+51510.0,Hyundai,Sonata,2022,Qara,31350,Avtomat,Xeyr,2.0,194,Hibrid
+59500.0,Kia,Sorento,2022,Ağ,40000,Avtomat,Xeyr,1.6,230,Hibrid
+164900.0,Mercedes,GLS 450 4MATIC,2020,Qara,41000,Avtomat,Xeyr,3.0,367,Benzin
+148750.0,BMW,X7,2020,Qara,45000,Avtomat,Xeyr,3.0,340,Benzin
+86530.0,Kia,Carnival,2023,Qara,9000,Avtomat,Xeyr,2.2,202,Dizel
+61200.0,Mercedes,E 220 d,2019,Qara,145000,Avtomat,Xeyr,2.0,196,Dizel
+55930.0,Kia,Sorento,2020,Yaş Asfalt,135000,Robot,Xeyr,2.2,202,Dizel
+42500.0,Kia,Sorento,2019,Göy,112000,Avtomat,Xeyr,2.0,184,Dizel
+42500.0,Kia,Sportage,2019,Qara,57000,Avtomat,Xeyr,2.4,184,Benzin
+43000.0,Kia,Carnival,2019,Qara,42800,Avtomat,Xeyr,2.2,202,Dizel
+28500.0,Hyundai,Elantra,2019,Ağ,62000,Avtomat,Xeyr,2.0,150,Benzin
+29600.0,Hyundai,Elantra,2021,Gümüşü,25750,Avtomat,Xeyr,2.0,150,Benzin
+51700.0,Hyundai,Tucson,2023,Yaş Asfalt,14100,Avtomat,Xeyr,1.6,250,Hibrid
+28200.0,Kia,Cerato,2021,Ağ,49500,Avtomat,Xeyr,2.0,150,Benzin
+230319.9,Mercedes,GLS 450 4MATIC,2024,Qara,0,Avtomat,Bəli,3.0,367,Benzin
+23700.0,Hyundai,Accent,2019,Ağ,135000,Avtomat,Xeyr,1.6,140,Benzin
+99450.0,BMW,X5,2021,Ağ,41000,Avtomat,Xeyr,3.0,340,Benzin
+41900.0,Kia,Sorento,2019,Ağ,154000,Avtomat,Xeyr,2.0,265,Benzin
+46500.0,Kia,Sportage,2022,Ağ,78300,Avtomat,Xeyr,2.0,150,Benzin
+39400.0,Hyundai,Santa Fe,2019,Qara,109658,Avtomat,Xeyr,2.0,235,Benzin
+45050.0,Hyundai,Santa Fe,2019,Ağ,62652,Avtomat,Xeyr,2.0,235,Benzin
+27000.0,Kia,Forte,2019,Yaş Asfalt,83000,Variator,Xeyr,2.0,147,Benzin
+51000.0,Hyundai,Santa Fe,2023,Yaş Asfalt,7000,Avtomat,Xeyr,1.6,230,Hibrid
+28800.0,Kia,Forte,2022,Boz,43000,Variator,Xeyr,2.0,147,Benzin
+79560.0,BMW,530e,2021,Boz,44000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+285600.0,Mercedes,G 63 AMG,2019,Qara,105000,Avtomat,Xeyr,4.0,585,Benzin
+45300.0,Hyundai,Sonata,2021,Ağ,87000,Avtomat,Xeyr,2.0,195,Hibrid
+32500.0,Kia,K5,2021,Ağ,114000,Avtomat,Xeyr,2.0,150,Benzin
+53800.0,Hyundai,Santa Fe,2021,Yaş Asfalt,68000,Avtomat,Xeyr,1.6,230,Hibrid
+44800.0,Kia,Carnival,2019,Göy,129560,Avtomat,Xeyr,2.2,202,Dizel
+60000.0,BMW,520,2019,Ağ,64000,Avtomat,Xeyr,2.0,190,Dizel
+30500.0,Hyundai,Accent,2021,Boz,75000,Avtomat,Xeyr,1.6,130,Benzin
+64600.0,BMW,520,2021,Qara,140000,Avtomat,Xeyr,2.0,184,Benzin
+42700.0,Kia,Sorento,2019,Qara,173000,Avtomat,Xeyr,2.0,184,Dizel
+40500.0,Kia,Sorento,2019,Yaş Asfalt,124100,Avtomat,Xeyr,2.0,184,Dizel
+38900.0,Hyundai,Sonata,2019,Ağ,108000,Avtomat,Xeyr,2.0,165,Benzin
+144500.0,BMW,X5,2021,Göy,46000,Avtomat,Xeyr,3.0,340,Benzin
+25300.0,Hyundai,Elantra,2019,Qara,145000,Avtomat,Xeyr,2.0,150,Benzin
+61000.0,Kia,Sorento,2020,Boz,87000,Avtomat,Xeyr,2.2,200,Dizel
+26000.0,Kia,Cerato,2021,Boz,53752,Avtomat,Xeyr,2.0,200,Benzin
+51000.0,Hyundai,Sonata,2022,Qara,14500,Avtomat,Xeyr,2.0,165,Benzin
+136000.0,BMW,X7,2019,Qara,50000,Avtomat,Xeyr,3.0,340,Benzin
+72250.0,Kia,Sorento,2024,Ağ,10,Avtomat,Bəli,1.6,230,Hibrid
+96520.9,Mercedes,E 300 e,2021,Yaş Asfalt,18000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+52800.0,Kia,Sorento,2020,Yaş Asfalt,76000,Avtomat,Xeyr,2.2,200,Dizel
+39500.0,Hyundai,Elantra,2021,Ağ,80000,Avtomat,Xeyr,2.0,150,Benzin
+145690.0,Mercedes,GLS 450 4MATIC,2019,Boz,67300,Avtomat,Xeyr,3.0,367,Benzin
+25800.0,Kia,Forte,2021,Gümüşü,55000,Variator,Xeyr,2.0,147,Benzin
+42800.0,Kia,K5,2021,Boz,70900,Avtomat,Xeyr,1.6,200,Benzin
+176800.0,Mercedes,GLS 450 4MATIC,2019,Qara,21000,Avtomat,Xeyr,3.0,367,Benzin
+144500.0,BMW,X7,2021,Qara,70000,Avtomat,Xeyr,3.0,340,Benzin
+41300.0,Hyundai,Sonata,2020,Qara,22500,Avtomat,Xeyr,1.6,183,Benzin
+48000.0,Hyundai,Santa Fe,2019,Gümüşü,45000,Avtomat,Xeyr,2.0,249,Benzin
+134300.0,BMW,530e,2023,Ağ,1000,Avtomat,Xeyr,2.0,300,Plug-in Hibrid
+37060.0,Hyundai,Sonata,2021,Qara,70000,Avtomat,Xeyr,2.0,192,Hibrid
+58650.0,Hyundai,Grandeur,2022,Qara,61000,Avtomat,Xeyr,2.5,198,Benzin
+29900.0,Kia,Cerato,2021,Ağ,140000,Avtomat,Xeyr,2.0,150,Benzin
+180198.3,Mercedes,GLE 350 4MATIC,2023,Qara,0,Avtomat,Bəli,2.0,333,Plug-in Hibrid
+85510.0,Hyundai,Santa Fe,2024,Ağ,0,Avtomat,Bəli,1.6,235,Hibrid
+76500.0,Mercedes,E 300 de,2022,Qara,68000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+32900.0,Hyundai,Sonata,2019,Göy,17100,Avtomat,Xeyr,2.0,274,Benzin
+26600.0,Hyundai,Elantra,2020,Göy,96200,Avtomat,Xeyr,2.0,150,Benzin
+39950.0,Hyundai,Sonata,2020,Qara,73000,Avtomat,Xeyr,2.0,192,Hibrid
+115600.0,BMW,X5,2019,Boz,58000,Avtomat,Xeyr,3.0,340,Benzin
+56950.0,BMW,530e,2019,Qara,112654,Avtomat,Xeyr,2.0,249,Plug-in Hibrid
+37200.0,Kia,Cerato,2023,Göy,25000,Avtomat,Xeyr,1.6,128,Benzin
+38500.0,Kia,K5,2021,Göy,67000,Avtomat,Xeyr,2.0,150,Benzin
+41000.0,Kia,Sorento,2019,Ağ,98000,Avtomat,Xeyr,2.0,184,Dizel
+22500.0,Hyundai,Elantra,2019,Yaş Asfalt,136794,Avtomat,Xeyr,2.0,150,Benzin
+29800.0,Hyundai,Elantra,2019,Göy,117482,Avtomat,Xeyr,1.6,204,Benzin
+50000.0,Kia,Sorento,2020,Qara,109000,Avtomat,Xeyr,2.2,200,Dizel
+25000.0,Hyundai,Sonata,2020,Qara,35000,Robot,Xeyr,1.6,183,Benzin
+56500.0,Kia,Sorento,2020,Ağ,62000,Avtomat,Xeyr,2.2,200,Dizel
+58100.0,Kia,Sorento,2022,Ağ,98900,Avtomat,Xeyr,1.6,230,Hibrid
+35700.0,Hyundai,Elantra,2021,Yaş Asfalt,43000,Avtomat,Xeyr,2.0,150,Benzin
+212330.0,Mercedes,GLS 450 4MATIC,2022,Qara,0,Avtomat,Bəli,3.0,367,Benzin
+55250.0,BMW,530,2019,Qara,68500,Avtomat,Xeyr,2.0,249,Benzin
+76330.0,Kia,Sorento,2024,Ağ,14000,Avtomat,Xeyr,1.6,230,Hibrid
+63800.0,Kia,Sorento,2020,Göy,66500,Avtomat,Xeyr,2.2,200,Dizel
+60860.0,Hyundai,Santa Fe,2022,Qara,25600,Avtomat,Xeyr,1.6,230,Hibrid
+218450.0,BMW,X7,2023,Qara,25000,Avtomat,Xeyr,3.0,340,Dizel
+31800.0,Kia,Cerato,2021,Göy,44150,Avtomat,Xeyr,1.6,204,Benzin
+45900.0,BMW,520,2019,Qara,116000,Avtomat,Xeyr,2.0,184,Benzin
+21500.0,Hyundai,Elantra,2019,Göy,170000,Avtomat,Xeyr,2.0,150,Benzin
+36700.0,Hyundai,Tucson,2020,Ağ,27359,Avtomat,Xeyr,2.0,150,Benzin
+84150.0,Mercedes,E 300 de,2021,Ağ,89000,Avtomat,Xeyr,2.0,311,Plug-in Hibrid
+85858.5,Mercedes,E 300 e,2021,Göy,30311,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+73950.0,Mercedes,E 300 de,2020,Qara,52500,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+227800.0,BMW,X5,2024,Qara,0,Avtomat,Bəli,3.0,489,Plug-in Hibrid
+42500.0,Hyundai,Elantra,2022,Boz,5600,Avtomat,Xeyr,1.6,132,Benzin
+52500.0,Kia,Sorento,2020,Yaş Asfalt,121539,Avtomat,Xeyr,2.2,200,Dizel
+41500.0,Kia,Sorento,2019,Qara,166000,Avtomat,Xeyr,2.0,184,Dizel
+45900.0,Hyundai,Santa Fe,2019,Yaş Asfalt,133000,Avtomat,Xeyr,2.0,184,Dizel
+29900.0,Kia,Forte,2021,Ağ,60000,Robot,Xeyr,1.6,201,Benzin
+68000.0,Hyundai,Grandeur,2023,Qara,12000,Avtomat,Xeyr,1.6,230,Hibrid
+42900.0,Kia,K5,2022,Boz,45000,Avtomat,Xeyr,1.6,180,Benzin
+252700.0,BMW,X7,2023,Boz,0,Avtomat,Bəli,3.0,340,Benzin
+36800.0,Kia,K5,2021,Boz,94000,Avtomat,Xeyr,1.6,180,Benzin
+26500.0,Hyundai,Elantra,2019,Qara,80000,Avtomat,Xeyr,2.0,150,Benzin
+90100.0,BMW,520,2023,Qara,35000,Avtomat,Xeyr,2.0,184,Benzin
+104550.0,Mercedes,GLE 350 4MATIC,2021,Göy,28000,Avtomat,Xeyr,2.0,258,Benzin
+29800.0,Hyundai,Elantra,2021,Gümüşü,70000,Avtomat,Xeyr,2.0,150,Benzin
+84830.0,BMW,530e,2021,Yaş Asfalt,35000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+43900.0,Kia,Carnival,2020,Ağ,145000,Avtomat,Xeyr,2.2,202,Dizel
+60400.0,Hyundai,Santa Fe,2021,Yaş Asfalt,38000,Avtomat,Xeyr,2.5,180,Benzin
+297500.0,Mercedes,G 63 AMG,2019,Göy,100400,Avtomat,Xeyr,4.0,585,Benzin
+26200.0,Kia,Forte,2021,Yaş Asfalt,79200,Variator,Xeyr,2.0,147,Benzin
+45500.0,Kia,Sorento,2019,Ağ,44200,Avtomat,Xeyr,2.0,184,Dizel
+44500.0,Kia,Carnival,2019,Ağ,202000,Avtomat,Xeyr,2.2,202,Dizel
+77010.0,BMW,530e,2022,Göy,22000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+33800.0,Kia,Cerato,2024,Ağ,0,Avtomat,Bəli,1.5,136,Benzin
+122020.9,Mercedes,GLE 350 4MATIC,2023,Ağ,29500,Avtomat,Xeyr,2.0,258,Benzin
+51000.0,Hyundai,Tucson,2023,Yaş Asfalt,16000,Avtomat,Xeyr,1.6,230,Hibrid
+24900.0,Kia,Forte,2019,Yaş Asfalt,85000,Variator,Xeyr,2.0,147,Benzin
+119000.0,BMW,X5,2022,Göy,21000,Avtomat,Xeyr,3.0,394,Plug-in Hibrid
+88400.0,BMW,530e,2021,Qara,26500,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+46900.0,Kia,Sorento,2020,Qara,148000,Avtomat,Xeyr,2.0,186,Dizel
+84150.0,Mercedes,E 300 e,2021,Qara,38000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+108630.0,BMW,X7,2019,Ağ,100000,Avtomat,Xeyr,3.0,340,Benzin
+96560.0,Mercedes,E 300 de,2021,Boz,32000,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+46400.0,Hyundai,Santa Fe,2019,Ağ,170000,Avtomat,Xeyr,2.0,185,Dizel
+153000.0,BMW,X7,2022,Yaş Asfalt,65000,Avtomat,Xeyr,3.0,340,Benzin
+108800.0,BMW,520,2023,Qara,31000,Avtomat,Xeyr,2.0,204,Benzin
+105400.0,BMW,X5,2019,Qara,40500,Avtomat,Xeyr,3.0,340,Benzin
+37900.0,Hyundai,Elantra,2024,Qara,0,Avtomat,Bəli,1.6,127,Benzin
+28000.0,Hyundai,Accent,2021,Ağ,66000,Avtomat,Xeyr,1.6,140,Benzin
+53900.0,Kia,Sportage,2024,Yaş Asfalt,0,Avtomat,Bəli,2.0,150,Benzin
+103698.3,BMW,X7,2019,Qara,149000,Avtomat,Xeyr,3.0,340,Benzin
+26500.0,Kia,Forte,2021,Göy,159879,Variator,Xeyr,2.0,150,Benzin
+48500.0,Hyundai,Sonata,2022,Boz,12000,Avtomat,Xeyr,2.0,192,Hibrid
+41500.0,Hyundai,Elantra,2024,Qara,0,Avtomat,Bəli,1.6,128,Benzin
+44200.0,Hyundai,Sonata,2020,Ağ,77500,Avtomat,Xeyr,2.0,195,Hibrid
+55590.0,BMW,330,2019,Göy,141000,Avtomat,Xeyr,2.0,258,Benzin
+107100.0,BMW,X5,2020,Göy,24000,Avtomat,Xeyr,3.0,340,Benzin
+25900.0,Kia,Forte,2021,Göy,90000,Variator,Xeyr,2.0,147,Benzin
+85850.0,BMW,530,2020,Yaş Asfalt,26000,Avtomat,Xeyr,2.0,249,Benzin
+60350.0,BMW,530,2019,Boz,103803,Avtomat,Xeyr,2.0,249,Benzin
+184450.0,BMW,X7,2020,Qara,35000,Avtomat,Xeyr,4.4,530,Benzin
+42800.0,Kia,Sorento,2019,Yaş Asfalt,109000,Avtomat,Xeyr,2.0,184,Dizel
+170850.0,Mercedes,E 300 e,2023,Yaş Asfalt,4100,Avtomat,Xeyr,2.0,320,Plug-in Hibrid
+52500.0,Kia,Sorento,2019,Ağ,108000,Avtomat,Xeyr,2.2,200,Dizel
+50000.0,Kia,K5,2022,Yaş Asfalt,35000,Avtomat,Xeyr,2.5,194,Benzin
+20000.0,Hyundai,Accent,2019,Göy,152888,Avtomat,Xeyr,1.6,140,Benzin
+40800.0,Hyundai,Sonata,2021,Qara,60000,Avtomat,Xeyr,1.6,183,Benzin
+37900.0,Hyundai,Elantra,2024,Boz,0,Avtomat,Bəli,1.6,128,Benzin
+37500.0,Hyundai,Tucson,2020,Qara,105000,Avtomat,Xeyr,2.0,161,Benzin
+44800.0,Kia,K5,2023,Boz,43000,Avtomat,Xeyr,1.6,180,Benzin
+38900.0,Hyundai,Sonata,2020,Yaş Asfalt,35000,Avtomat,Xeyr,1.6,183,Benzin
+45600.0,Hyundai,Sonata,2022,Boz,31000,Avtomat,Xeyr,1.6,183,Benzin
+45000.0,Hyundai,Santa Fe,2019,Qəhvəyi,140000,Avtomat,Xeyr,2.2,197,Dizel
+28500.0,Hyundai,Accent,2021,Ağ,30000,Avtomat,Xeyr,1.6,140,Benzin
+29700.0,Hyundai,Elantra,2021,Göy,63000,Avtomat,Xeyr,2.0,150,Benzin
+38000.0,Kia,K5,2021,Qara,90000,Avtomat,Xeyr,1.6,180,Benzin
+48200.0,Kia,Carnival,2019,Ağ,170000,Avtomat,Xeyr,2.2,202,Dizel
+29000.0,Hyundai,Elantra,2019,Boz,48723,Avtomat,Xeyr,2.0,150,Benzin
+46600.0,Hyundai,Santa Fe,2019,Qara,127000,Avtomat,Xeyr,2.0,185,Dizel
+171700.0,BMW,X5,2023,Boz,33000,Avtomat,Xeyr,3.0,340,Benzin
+26700.0,Kia,Forte,2020,Qırmızı,90645,Variator,Xeyr,2.0,147,Benzin
+27400.0,Kia,Forte,2019,Qara,81000,Variator,Xeyr,2.0,147,Benzin
+65000.0,Hyundai,Santa Fe,2021,Qara,22000,Avtomat,Xeyr,2.5,180,Benzin
+127500.0,BMW,X5,2021,Göy,47400,Avtomat,Xeyr,3.0,340,Benzin
+27200.0,Hyundai,Accent,2021,Qara,26400,Avtomat,Xeyr,1.6,140,Benzin
+34777.0,Hyundai,Elantra,2023,Ağ,1600,Avtomat,Xeyr,2.0,150,Benzin
+30940.0,Hyundai,Elantra,2020,Göy,85600,Avtomat,Xeyr,1.6,204,Benzin
+34000.0,Hyundai,Elantra,2023,Boz,13000,Avtomat,Xeyr,1.6,132,Benzin
+37910.0,Hyundai,Elantra,2024,Ağ,0,Avtomat,Bəli,1.6,127,Benzin
+57900.0,Kia,Sorento,2020,Boz,74000,Avtomat,Xeyr,2.2,184,Dizel
+32777.0,Hyundai,Elantra,2024,Ağ,0,Variator,Bəli,1.5,115,Benzin
+28300.0,Hyundai,Elantra,2019,Yaş Asfalt,173655,Avtomat,Xeyr,1.6,132,Benzin
+63900.0,Hyundai,Sonata,2024,Ağ,0,Avtomat,Bəli,2.0,192,Hibrid
+53900.0,Kia,K5,2021,Ağ,31000,Avtomat,Xeyr,2.5,194,Benzin
+61200.0,Hyundai,Santa Fe,2023,Qara,31000,Avtomat,Xeyr,1.6,227,Hibrid
+47200.0,Hyundai,Santa Fe,2020,Qəhvəyi,44000,Avtomat,Xeyr,2.0,235,Benzin
+51000.0,Hyundai,Tucson,2023,Ağ,18000,Avtomat,Xeyr,1.6,230,Hibrid
+32800.0,Kia,K5,2019,Qara,156200,Avtomat,Xeyr,2.0,168,Benzin
+27500.0,Hyundai,Elantra,2019,Gümüşü,140325,Avtomat,Xeyr,2.0,150,Benzin
+90100.0,Mercedes,E 300 de,2020,Yaş Asfalt,56000,Avtomat,Xeyr,2.0,311,Plug-in Hibrid
+101490.0,Mercedes,E 300 de,2022,Qara,7300,Avtomat,Xeyr,2.0,306,Plug-in Hibrid
+224400.0,BMW,X5,2023,Qara,12000,Avtomat,Xeyr,3.0,394,Plug-in Hibrid
+26500.0,Hyundai,Elantra,2019,Qara,75730,Avtomat,Xeyr,2.0,150,Benzin
+37500.0,Hyundai,Sonata,2019,Qara,98000,Avtomat,Xeyr,2.0,165,Benzin
+27000.0,Hyundai,Elantra,2019,Yaş Asfalt,56000,Avtomat,Xeyr,2.0,150,Benzin
+23900.0,Hyundai,Elantra,2019,Yaş Asfalt,64374,Avtomat,Xeyr,1.4,128,Benzin
+125800.0,BMW,X5,2021,Ağ,57000,Avtomat,Xeyr,3.0,340,Benzin
+24500.0,Hyundai,Accent,2021,Qırmızı,127400,Avtomat,Xeyr,1.6,140,Benzin
+87550.0,BMW,530e,2022,Boz,29000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+49298.299999999996,Kia,Sportage,2024,Ağ,0,Avtomat,Bəli,2.0,210,Plug-in Hibrid
+110500.0,BMW,X5,2021,Ağ,23000,Avtomat,Xeyr,3.0,340,Benzin
+59900.0,Kia,K5,2023,Ağ,1500,Avtomat,Xeyr,2.5,194,Benzin
+52530.0,BMW,530,2019,Qara,80000,Avtomat,Xeyr,2.0,249,Benzin
+27900.0,Kia,Forte,2020,Ağ,56000,Variator,Xeyr,2.0,147,Benzin
+74460.0,Kia,Sorento,2024,Yaş Asfalt,22000,Avtomat,Xeyr,1.6,230,Hibrid
+49800.0,Hyundai,Sonata,2021,Qara,50000,Avtomat,Xeyr,2.0,150,Benzin
+76500.0,BMW,530e,2020,Yaş Asfalt,69000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+38900.0,Kia,Sportage,2019,Qara,170000,Avtomat,Xeyr,2.0,184,Dizel
+22800.0,Hyundai,Accent,2019,Boz,90500,Avtomat,Xeyr,1.6,140,Benzin
+43350.0,Hyundai,Sonata,2022,Göy,44000,Avtomat,Xeyr,1.6,183,Benzin
+51510.0,BMW,530,2019,Ağ,95300,Avtomat,Xeyr,2.0,249,Benzin
+98600.0,BMW,X5,2019,Qara,55000,Avtomat,Xeyr,3.0,340,Benzin
+69530.0,BMW,520,2021,Yaş Asfalt,42000,Avtomat,Xeyr,2.0,200,Benzin
+42990.0,Hyundai,Santa Fe,2019,Boz,131000,Avtomat,Xeyr,2.0,184,Dizel
+30900.0,Kia,Cerato,2021,Ağ,29000,Avtomat,Xeyr,1.6,204,Benzin
+286884.8,Mercedes,GLS 450 4MATIC,2024,Boz,0,Avtomat,Bəli,3.0,381,Benzin
+66300.0,Hyundai,Grandeur,2023,Qara,12423,Avtomat,Xeyr,1.6,230,Hibrid
+59900.0,Hyundai,Sonata,2024,Ağ,0,Avtomat,Bəli,2.5,194,Benzin
+48450.0,BMW,530,2019,Ağ,76000,Avtomat,Xeyr,2.0,274,Benzin
+25300.0,Kia,Forte,2019,Qırmızı,52286,Variator,Xeyr,2.0,147,Benzin
+132600.0,Mercedes,GLS 450 4MATIC,2019,Qara,87000,Avtomat,Xeyr,3.0,380,Benzin
+67700.0,Hyundai,Santa Fe,2023,Qara,9200,Avtomat,Xeyr,2.2,200,Dizel
+59900.0,Kia,Sorento,2023,Göy,12000,Avtomat,Xeyr,1.6,230,Hibrid
+106590.0,BMW,520,2023,Yaş Asfalt,30000,Avtomat,Xeyr,2.0,299,Hibrid
+58000.0,Kia,Sportage,2022,Boz,33000,Avtomat,Xeyr,2.0,186,Dizel
+37000.0,Hyundai,Elantra,2021,Boz,45000,Avtomat,Xeyr,1.6,132,Benzin
+107100.0,BMW,X5,2020,Qara,55982,Avtomat,Xeyr,3.0,340,Plug-in Hibrid
+51000.0,Hyundai,Grandeur,2021,Ağ,50000,Avtomat,Xeyr,2.4,210,Hibrid
+50320.0,BMW,530,2019,Ağ,114000,Avtomat,Xeyr,2.0,249,Benzin
+50490.0,Hyundai,Sonata,2023,Ağ,28000,Avtomat,Xeyr,2.0,156,Hibrid
+26500.0,Hyundai,Elantra,2019,Gümüşü,104607,Avtomat,Xeyr,2.0,150,Benzin
+474300.0,Mercedes,G 63 AMG,2023,Yaşıl,2500,Avtomat,Xeyr,4.0,585,Benzin
+39500.0,Hyundai,Sonata,2021,Yaş Asfalt,15380,Avtomat,Xeyr,1.6,183,Benzin
+59160.0,BMW,530e,2019,Qara,82000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+46750.0,Hyundai,Sonata,2022,Qara,28000,Avtomat,Xeyr,1.6,183,Benzin
+42500.0,Kia,K5,2021,Göy,29987,Robot,Xeyr,1.6,180,Benzin
+71740.0,Mercedes,E 300 de,2020,Yaş Asfalt,151000,Avtomat,Xeyr,2.0,211,Plug-in Hibrid
+124100.0,Mercedes,E 220 d,2023,Qara,0,Avtomat,Bəli,2.0,194,Dizel
+77500.0,Hyundai,Santa Fe,2024,Ağ,0,Avtomat,Bəli,2.5,180,Benzin
+98090.0,Mercedes,E 220 d,2021,Ağ,30000,Avtomat,Xeyr,2.0,194,Dizel
+32500.0,Hyundai,Elantra,2019,Yaş Asfalt,45000,Avtomat,Xeyr,2.0,150,Benzin
+24900.0,Hyundai,Elantra,2019,Qara,72420,Avtomat,Xeyr,2.0,150,Benzin
+45900.0,Hyundai,Santa Fe,2019,Ağ,130000,Avtomat,Xeyr,2.0,184,Dizel
+50830.0,BMW,330,2020,Qara,50000,Avtomat,Xeyr,2.0,260,Benzin
+42700.0,Kia,K5,2021,Qara,50000,Avtomat,Xeyr,1.6,284,Benzin
+50800.0,Hyundai,Tucson,2023,Ağ,29000,Avtomat,Xeyr,1.6,230,Hibrid
+84150.0,Mercedes,E 300 e,2021,Qara,65000,Avtomat,Xeyr,2.0,250,Plug-in Hibrid
+40700.0,Hyundai,Sonata,2020,Ağ,117000,Avtomat,Xeyr,2.0,164,Benzin
+32600.0,Kia,Sportage,2020,Yaş Asfalt,142397,Variator,Xeyr,1.6,136,Dizel
+52000.0,Kia,K5,2022,Ağ,40000,Avtomat,Xeyr,2.5,194,Benzin
+103700.0,Mercedes,GLE 350 4MATIC,2019,Yaş Asfalt,95000,Avtomat,Xeyr,2.0,265,Benzin
+23500.0,Hyundai,Accent,2019,Göy,88000,Avtomat,Xeyr,1.6,140,Benzin
+27300.0,Kia,Forte,2021,Ağ,89000,Variator,Xeyr,2.0,147,Benzin
+84830.0,BMW,530e,2022,Qara,45000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+50400.0,Kia,Sportage,2024,Ağ,0,Avtomat,Bəli,2.0,150,Benzin
+173400.0,Mercedes,E 300 e,2024,Qara,0,Avtomat,Bəli,2.0,320,Plug-in Hibrid
+26900.0,Kia,Cerato,2019,Ağ,124000,Avtomat,Xeyr,1.6,136,Benzin
+23700.0,Hyundai,Accent,2019,Ağ,85011,Avtomat,Xeyr,1.4,107,Benzin
+73500.0,Hyundai,Santa Fe,2023,Qara,24240,Avtomat,Xeyr,1.6,230,Hibrid
+47900.0,Kia,Sorento,2020,Ağ,183000,Avtomat,Xeyr,2.2,197,Dizel
+87550.0,Kia,Sorento,2024,Yaş Asfalt,85,Avtomat,Bəli,1.6,250,Hibrid
+34000.0,Hyundai,Elantra,2024,Ağ,0,Variator,Bəli,1.5,115,Benzin
+254150.0,Mercedes,GLS 450 4MATIC,2023,Qara,0,Avtomat,Bəli,3.0,367,Benzin
+65450.0,BMW,530,2021,Ağ,41000,Avtomat,Xeyr,2.0,249,Benzin
+61030.0,Kia,Sorento,2022,Ağ,72000,Avtomat,Xeyr,1.6,230,Hibrid
+25000.0,Hyundai,Accent,2021,Ağ,107000,Avtomat,Xeyr,1.6,130,Benzin
+86700.0,BMW,530e,2021,Göy,45000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+76500.0,BMW,530e,2021,Ağ,71000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+44300.0,Hyundai,Tucson,2021,Qara,55000,Avtomat,Xeyr,2.0,150,Benzin
+61710.0,Kia,Sorento,2023,Boz,12000,Avtomat,Xeyr,1.6,230,Hibrid
+453900.0,Mercedes,G 63 AMG,2023,Qara,19000,Avtomat,Xeyr,4.0,585,Benzin
+26000.0,Hyundai,Elantra,2019,Göy,27000,Avtomat,Xeyr,2.0,150,Benzin
+88400.0,BMW,X5,2019,Qara,58000,Avtomat,Xeyr,3.0,340,Benzin
+52700.0,BMW,520,2019,Qara,66000,Avtomat,Xeyr,2.0,184,Benzin
+27800.0,Hyundai,Elantra,2019,Ağ,102000,Avtomat,Xeyr,1.6,132,Benzin
+44500.0,Hyundai,Santa Fe,2019,Tünd qırmızı,71000,Avtomat,Xeyr,2.0,184,Dizel
+64430.0,BMW,530,2021,Yaş Asfalt,65000,Avtomat,Xeyr,2.0,250,Benzin
+60900.0,Hyundai,Tucson,2024,Ağ,0,Avtomat,Bəli,1.6,230,Hibrid
+159800.0,Mercedes,GLS 450 4MATIC,2020,Yaş Asfalt,20000,Avtomat,Xeyr,3.0,367,Benzin
+32900.0,Hyundai,Elantra,2024,Ağ,0,Variator,Bəli,1.5,115,Benzin
+56900.0,Kia,K5,2024,Göy,0,Avtomat,Bəli,2.5,194,Benzin
+65450.0,BMW,530e,2021,Qara,69000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+45000.0,Hyundai,Sonata,2022,Ağ,45700,Avtomat,Xeyr,2.0,156,Hibrid
+58650.0,BMW,530,2020,Qara,110000,Avtomat,Xeyr,2.0,249,Benzin
+27200.0,Hyundai,Elantra,2020,Ağ,67800,Avtomat,Xeyr,2.0,150,Benzin
+97920.0,BMW,520,2023,Göy,476,Avtomat,Xeyr,2.0,184,Benzin
+25500.0,Hyundai,Sonata,2021,Yaş Asfalt,86000,Avtomat,Xeyr,2.0,198,Hibrid
+53890.0,BMW,330,2019,Qara,79000,Avtomat,Xeyr,2.0,258,Benzin
+25100.0,Kia,Forte,2019,Göy,92589,Variator,Xeyr,2.0,147,Benzin
+53550.0,BMW,530,2019,Ağ,56200,Avtomat,Xeyr,2.0,249,Benzin
+48500.0,Hyundai,Sonata,2020,Qara,58089,Avtomat,Xeyr,2.0,192,Hibrid
+51000.0,Kia,Sorento,2022,Göy,45000,Avtomat,Xeyr,1.6,230,Hibrid
+41500.0,Kia,K5,2021,Boz,63000,Avtomat,Xeyr,1.6,180,Benzin
+62730.0,BMW,530e,2019,Göy,72300,Avtomat,Xeyr,2.0,272,Plug-in Hibrid
+41900.0,Kia,K5,2021,Ağ,74572,Avtomat,Xeyr,1.6,180,Benzin
+34700.0,Hyundai,Elantra,2021,Qara,46533,Avtomat,Xeyr,1.6,139,Hibrid
+27700.0,Kia,Forte,2019,Yaş Asfalt,129000,Variator,Xeyr,2.0,147,Benzin
+57290.0,Kia,Sorento,2022,Qara,130000,Avtomat,Xeyr,1.6,230,Hibrid
+51850.0,BMW,330,2019,Ağ,68000,Avtomat,Xeyr,2.0,249,Benzin
+38500.0,Kia,Sorento,2019,Yaş Asfalt,164000,Avtomat,Xeyr,2.0,184,Dizel
+77820.9,BMW,530e,2022,Qara,37700,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+32500.0,Kia,Sportage,2019,Ağ,205000,Avtomat,Xeyr,2.0,185,Dizel
+27700.0,Hyundai,Elantra,2020,Boz,159890,Avtomat,Xeyr,2.0,150,Benzin
+154360.0,BMW,530e,2024,Qara,0,Avtomat,Bəli,2.0,292,Plug-in Hibrid
+29500.0,Hyundai,Elantra,2020,Ağ,71000,Avtomat,Xeyr,1.6,132,Benzin
+82450.0,BMW,530,2020,Qara,116000,Avtomat,Xeyr,2.0,249,Benzin
+25500.0,Hyundai,Elantra,2020,Ağ,184300,Avtomat,Xeyr,2.0,150,Benzin
+35900.0,Hyundai,Elantra,2020,Boz,40234,Avtomat,Xeyr,1.6,128,Benzin
+28800.0,Hyundai,Elantra,2019,Ağ,82000,Avtomat,Xeyr,1.6,132,Benzin
+45000.0,Hyundai,Sonata,2022,Qara,80000,Avtomat,Xeyr,2.0,240,Benzin
+47200.0,Hyundai,Sonata,2020,Qara,53000,Avtomat,Xeyr,2.0,192,Plug-in Hibrid
+79900.0,Mercedes,E 220 d,2020,Qara,101000,Avtomat,Xeyr,2.0,197,Dizel
+24500.0,Hyundai,Accent,2021,Ağ,130000,Avtomat,Xeyr,1.6,140,Benzin
+48500.0,Hyundai,Sonata,2023,Qara,9250,Avtomat,Xeyr,2.0,165,Benzin
+26500.0,Hyundai,Accent,2020,Gümüşü,81000,Avtomat,Xeyr,1.6,140,Benzin
+42160.0,Kia,K5,2020,Yaş Asfalt,22300,Avtomat,Xeyr,1.6,190,Benzin
+24000.0,Hyundai,Elantra,2019,Gümüşü,215000,Avtomat,Xeyr,2.0,150,Benzin
+26500.0,Hyundai,Elantra,2020,Tünd qırmızı,70000,Avtomat,Xeyr,2.0,150,Benzin
+135150.0,BMW,X7,2022,Qara,55000,Avtomat,Xeyr,3.0,340,Benzin
+31000.0,Hyundai,Elantra,2022,Qara,44500,Avtomat,Xeyr,1.6,132,Benzin
+34900.0,Hyundai,Elantra,2022,Mavi,4500,Avtomat,Xeyr,2.0,150,Benzin
+40800.0,Hyundai,Sonata,2020,Yaş Asfalt,53000,Avtomat,Xeyr,1.6,183,Benzin
+52700.0,BMW,530,2019,Qara,61000,Avtomat,Xeyr,2.0,249,Benzin
+60010.0,Hyundai,Sonata,2024,Qara,0,Avtomat,Bəli,2.5,200,Benzin
+153000.0,BMW,X5,2022,Göy,30000,Avtomat,Xeyr,3.0,340,Benzin
+37000.0,Kia,Sportage,2021,Yaş Asfalt,68000,Robot,Xeyr,1.6,136,Dizel
+33900.0,Hyundai,Tucson,2020,Qara,83686,Avtomat,Xeyr,2.0,161,Benzin
+26386.0,Hyundai,Accent,2019,Ağ,99000,Avtomat,Xeyr,1.4,108,Benzin
+76500.0,Mercedes,E 220 d,2020,Yaş Asfalt,98000,Avtomat,Xeyr,2.0,194,Dizel
+151300.0,BMW,X7,2021,Qara,60000,Avtomat,Xeyr,3.0,340,Dizel
+49500.0,Hyundai,Santa Fe,2019,Ağ,178000,Avtomat,Xeyr,2.0,184,Dizel
+46580.0,Hyundai,Sonata,2022,Qara,54000,Avtomat,Xeyr,2.0,165,Benzin
+32000.0,Hyundai,Elantra,2021,Yaş Asfalt,128748,Avtomat,Xeyr,2.0,150,Benzin
+41900.0,Kia,Cerato,2023,Boz,0,Avtomat,Bəli,2.0,152,Benzin
+64430.0,Kia,Sorento,2021,Yaş Asfalt,76700,Robot,Xeyr,2.2,200,Dizel
+42500.0,Hyundai,Grandeur,2019,Ağ,158000,Avtomat,Xeyr,2.4,201,Benzin
+88230.0,BMW,530e,2021,Ağ,55000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+26800.0,Kia,Forte,2020,Ağ,125000,Variator,Xeyr,2.0,147,Benzin
+28400.0,Kia,Forte,2019,Qara,28000,Variator,Xeyr,2.0,147,Benzin
+36000.0,Kia,K5,2021,Göy,59000,Avtomat,Xeyr,1.6,180,Benzin
+367030.0,Mercedes,G 63 AMG,2021,Qara,23000,Avtomat,Xeyr,4.0,585,Benzin
+32200.0,Hyundai,Sonata,2019,Göy,52000,Avtomat,Xeyr,2.0,272,Benzin
+55420.0,Kia,Sorento,2020,Yaş Asfalt,97000,Avtomat,Xeyr,2.2,200,Dizel
+94350.0,BMW,530e,2020,Qara,159000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+60500.0,Kia,Sorento,2020,Ağ,104000,Avtomat,Xeyr,2.2,200,Dizel
+43820.9,Hyundai,Sonata,2021,Göy,62900,Avtomat,Xeyr,2.0,192,Hibrid
+65000.0,BMW,330,2019,Boz,189000,Avtomat,Xeyr,2.0,245,Benzin
+87550.0,Mercedes,E 300 de,2020,Göy,58000,Avtomat,Xeyr,2.0,311,Plug-in Hibrid
+122230.0,Mercedes,GLE 350 4MATIC,2022,Qara,30000,Avtomat,Xeyr,2.0,194,Benzin
+119000.0,Mercedes,GLE 350 4MATIC,2021,Ağ,46000,Avtomat,Xeyr,2.0,333,Plug-in Hibrid
+33800.0,Hyundai,Elantra,2020,Yaş Asfalt,82077,Avtomat,Xeyr,2.0,150,Benzin
+40200.0,Hyundai,Sonata,2021,Gümüşü,150000,Avtomat,Xeyr,2.0,192,Hibrid
+39900.0,Kia,Sorento,2019,Yaş Asfalt,145000,Avtomat,Xeyr,2.0,184,Dizel
+32500.0,Hyundai,Elantra,2019,Ağ,83000,Avtomat,Xeyr,1.6,132,Benzin
+41900.0,Hyundai,Elantra,2024,Yaş Asfalt,0,Variator,Bəli,1.5,156,Benzin
+59840.0,BMW,530e,2019,Boz,100000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+51900.0,Kia,Sportage,2023,Boz,42000,Robot,Xeyr,1.5,227,Hibrid
+56950.0,BMW,530,2019,Gümüşü,55000,Avtomat,Xeyr,2.0,249,Benzin
+49000.0,Kia,Sorento,2019,Boz,164000,Avtomat,Xeyr,2.2,200,Dizel
+98600.0,BMW,X5,2019,Yaş Asfalt,55000,Avtomat,Xeyr,3.0,340,Benzin
+131750.0,BMW,X5,2021,Yaş Asfalt,54400,Avtomat,Xeyr,3.0,249,Dizel
+146300.0,Mercedes,E 300 e,2024,Açıq yaşıl,3000,Avtomat,Xeyr,2.0,330,Plug-in Hibrid
+42000.0,Kia,K5,2021,Boz,192000,Avtomat,Xeyr,1.6,180,Benzin
+38000.0,Kia,Cerato,2023,Ağ,4000,Avtomat,Xeyr,2.0,150,Benzin
+220830.0,Mercedes,GLS 450 4MATIC,2022,Qara,0,Avtomat,Bəli,3.0,367,Benzin
+66500.0,Kia,Carnival,2021,Qara,100000,Avtomat,Xeyr,2.2,202,Dizel
+59160.0,Kia,Sorento,2022,Ağ,58394,Avtomat,Xeyr,1.6,230,Hibrid
+71400.0,BMW,530e,2020,Yaş Asfalt,92000,Avtomat,Xeyr,2.0,292,Plug-in Hibrid
+39700.0,Hyundai,Sonata,2021,Ağ,48000,Avtomat,Xeyr,1.6,183,Benzin
+65450.0,Kia,Sorento,2023,Yaş Asfalt,0,Avtomat,Bəli,1.6,230,Hibrid
+472220.89999999997,Mercedes,G 63 AMG,2023,Qara,4900,Avtomat,Xeyr,4.0,585,Benzin
+57290.0,Kia,Sorento,2022,Ağ,71000,Avtomat,Xeyr,1.6,230,Hibrid
+166600.0,BMW,X7,2022,Qara,30000,Avtomat,Xeyr,3.0,380,Benzin
+370600.0,Mercedes,G 63 AMG,2021,Qara,22000,Avtomat,Xeyr,4.0,585,Benzin
+70550.0,Kia,Carnival,2023,Ağ,1400,Avtomat,Xeyr,2.2,202,Dizel
+25500.0,Hyundai,Elantra,2019,Qara,46000,Avtomat,Xeyr,2.0,150,Benzin
+165750.0,BMW,X7,2021,Boz,39000,Avtomat,Xeyr,3.0,340,Benzin
+56100.0,Kia,Sorento,2021,Ağ,140000,Avtomat,Xeyr,1.6,230,Hibrid
+44500.0,Hyundai,Sonata,2021,Yaş Asfalt,53000,Avtomat,Xeyr,2.0,192,Hibrid
+425000.0,Mercedes,G 63 AMG,2023,Qara,15000,Avtomat,Xeyr,4.0,585,Benzin
+50830.0,Hyundai,Sonata,2023,Yaş Asfalt,7000,Avtomat,Xeyr,1.6,183,Benzin
+141098.3,Mercedes,GLS 450 4MATIC,2019,Qara,85000,Avtomat,Xeyr,3.0,367,Benzin
+46000.0,Kia,Sorento,2019,Qara,88000,Avtomat,Xeyr,2.0,184,Dizel
+26700.0,Hyundai,Elantra,2019,Tünd qırmızı,40000,Avtomat,Xeyr,2.0,170,Benzin
+32000.0,Hyundai,Elantra,2021,Göy,64000,Avtomat,Xeyr,2.0,150,Benzin
+34900.0,Hyundai,Elantra,2022,Ağ,25000,Avtomat,Xeyr,1.6,132,Benzin
+237830.0,BMW,X7,2024,Boz,0,Avtomat,Bəli,3.0,381,Benzin
